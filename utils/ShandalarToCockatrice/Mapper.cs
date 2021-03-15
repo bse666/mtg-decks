@@ -24,12 +24,21 @@ namespace ShandalarToCockatrice
                 .FixBugs()
                 .ToArray();
 
-            return new Deck
+            var d = new Deck
             {
                 Name = shandalarDeck.Name,
+                Comments = "",
                 Cards = cards,
                 Sideboard = sideboard
             };
+
+            var astralCards = cards.Concat(sideboard).Where(Validator.IsAstral);
+            if (astralCards.Any())
+            {
+                d.Comments += $"Contains these Astral cards: {astralCards.ToListString()}.";
+            }
+
+            return d;
         }
 
         public static string GetKey(this DeckItem item) => item.Name.ToLowerInvariant();

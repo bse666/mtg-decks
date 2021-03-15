@@ -12,6 +12,7 @@
     public class Deck
     {
         public string Name;
+        public string Comments;
         public DeckItem[] Cards;
         public DeckItem[] Sideboard;
     }

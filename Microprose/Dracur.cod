@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <cockatrice_deck version="1">
   <deckname>Dracur</deckname>
-  <comments></comments>
+  <comments>Contains these Astral cards: Gem Bazaar.</comments>
   <zone name="main">
     <card number="5" name="Mountain" />
     <card number="5" name="Swamp" />

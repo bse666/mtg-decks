@@ -20,7 +20,7 @@ namespace ShandalarToCockatrice
                 new[]
                 {
                     new XElement("deckname", deck.Name),
-                    new XElement("comments", ""),
+                    new XElement("comments", deck.Comments),
                     new XElement("zone", new XAttribute("name", "main"),
                         deck.Cards.Select(ToElement)
                     ),

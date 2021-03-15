@@ -34,7 +34,7 @@ namespace ShandalarToCockatrice
             if (astralCards.Any()) yield return $"The deck {deck.Name} has these Astral cards: {astralCards.ToListString()}";
         }
 
-        static string ToListString(this IEnumerable<DeckItem> items) =>
+        public static string ToListString(this IEnumerable<DeckItem> items) =>
             string.Join(", ", items.Select(x => x.Name));
 
         static bool IsBasicLand(this DeckItem item) =>
@@ -55,7 +55,7 @@ namespace ShandalarToCockatrice
             "wastes"
         };
 
-        static bool IsAstral(this DeckItem item) =>
+        public static bool IsAstral(this DeckItem item) =>
             _astralCardNames.Contains(Mapper.GetKey(item));
 
         static readonly string[] _astralCardNames = new[]

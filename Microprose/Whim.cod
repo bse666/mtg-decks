@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <cockatrice_deck version="1">
   <deckname>Whim</deckname>
-  <comments></comments>
+  <comments>Contains these Astral cards: Whimsy.</comments>
   <zone name="main">
     <card number="7" name="Island" />
     <card number="6" name="Plains" />
