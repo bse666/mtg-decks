@@ -16,24 +16,12 @@ namespace ShandalarToCockatrice
             {
                 Console.WriteLine($"Parsing {f}");
                 var shandalarDeck = Parser.ParseDeck(f);
-                var deck = MapDeck(shandalarDeck);
+                var deck = Mapper.MapDeck(shandalarDeck);
+                Validator.Validate(deck);
                 Console.WriteLine(JsonConvert.SerializeObject(deck, Formatting.Indented));
             }
 
             Console.Read();
-        }
-
-        static Deck MapDeck(ShandalarDeckModel shandalarDeck)
-        {
-            var cards = shandalarDeck.Core.Concat(shandalarDeck.DefaultExtension).ToArray();
-
-
-            return new Deck
-            {
-                Name = shandalarDeck.Name,
-                Cards = cards,
-                Sideboard = new DeckItem[0]
-            };
         }
     }
 }
