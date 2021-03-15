@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iihoXdJvXAH2WMFgKMvAo4cjTuwIXSfJ+tsdmBfpBFrXA8Y6dKzYgP2Y/8u9F56GRfz76TkcE44m6/RkP30Alg==",
+  "success": true,
+  "projectFilePath": "C:\\github\\JamesFaix\\ShandalarToCockatrice\\ShandalarToCockatrice\\ShandalarToCockatrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
