@@ -26,9 +26,4 @@
     <card number="1" name="Ivory Tower" />
   </zone>
   <zone name="side" />
-</cockatrice_deck> <card number="2" price="0" name="Reverse Damage" />
-    <card number="4" price="0" name="Onulet" />
-    <card number="1" price="0" name="Ivory Tower" />
-  </zone>
-  <zone name="side" />
-</cockatrice_deck>deck>
+</cockatrice_deck>

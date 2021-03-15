@@ -27,9 +27,4 @@
     <card number="2" name="Brass Man" />
     <card number="1" name="Obsianus Golem" />
   </zone>
-</cockatrice_deck>"Animate Dead" />
-    <card number="3" price="0" name="Simulacrum" />
-    <card number="2" price="0" name="Brass Man" />
-    <card number="1" price="0" name="Obsianus Golem" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

@@ -80,19 +80,4 @@
     <card number="1" name="Mishra's Workshop" />
   </zone>
   <zone name="side" />
-</cockatrice_deck>c Machine" />
-    <card number="4" price="0" name="Fellwar Stone" />
-    <card number="1" price="0" name="Green Mana Battery" />
-    <card number="1" price="0" name="Grapeshot Catapult" />
-    <card number="1" price="0" name="Obsianus Golem" />
-    <card number="1" price="0" name="Shapeshifter" />
-    <card number="1" price="0" name="Tetravus" />
-    <card number="2" price="0" name="The Hive" />
-    <card number="1" price="0" name="Triskelion" />
-    <card number="1" price="0" name="Urza's Avenger" />
-    <card number="1" price="0" name="White Mana Battery" />
-    <card number="1" price="0" name="Red Mana Battery" />
-    <card number="1" price="0" name="Mishra's Workshop" />
-  </zone>
-  <zone name="side" />
-</cockatrice_deck>deck>
+</cockatrice_deck>

@@ -25,9 +25,3 @@
     <card number="2" name="Kormus Bell" />
   </zone>
 </cockatrice_deck>
-    <card number="3" price="0" name="Swords to Plowshares" />
-  </zone>
-  <zone name="side">
-    <card number="2" price="0" name="Kormus Bell" />
-  </zone>
-</cockatrice_deck>deck>

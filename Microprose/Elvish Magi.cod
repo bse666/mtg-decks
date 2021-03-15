@@ -20,8 +20,4 @@
     <card number="1" name="Web" />
     <card number="1" name="Wall of Brambles" />
   </zone>
-</cockatrice_deck>" />
-    <card number="1" price="0" name="Web" />
-    <card number="1" price="0" name="Wall of Brambles" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

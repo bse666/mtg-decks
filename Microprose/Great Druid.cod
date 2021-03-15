@@ -22,8 +22,4 @@
     <card number="2" name="Lifeforce" />
     <card number="2" name="Shanodin Dryads" />
   </zone>
-</cockatrice_deck> <zone name="side">
-    <card number="2" price="0" name="Lifeforce" />
-    <card number="2" price="0" name="Shanodin Dryads" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

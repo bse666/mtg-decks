@@ -22,9 +22,4 @@
     <card number="2" name="Lifeforce" />
     <card number="2" name="Deathgrip" />
   </zone>
-</cockatrice_deck>ne>
-  <zone name="side">
-    <card number="2" price="0" name="Lifeforce" />
-    <card number="2" price="0" name="Deathgrip" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

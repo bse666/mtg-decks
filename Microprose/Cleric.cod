@@ -21,8 +21,4 @@
     <card number="1" name="Karma" />
     <card number="1" name="Conversion" />
   </zone>
-</cockatrice_deck><zone name="side">
-    <card number="1" price="0" name="Karma" />
-    <card number="1" price="0" name="Conversion" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

@@ -23,8 +23,3 @@
   </zone>
   <zone name="side" />
 </cockatrice_deck>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Swamp"/>
-    </zone>
-</cockatrice_deck>

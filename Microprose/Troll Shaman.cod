@@ -24,9 +24,4 @@
     <card number="1" name="Throne of Bone" />
     <card number="1" name="Red Elemental Blast" />
   </zone>
-</cockatrice_deck> </zone>
-  <zone name="side">
-    <card number="1" price="0" name="Throne of Bone" />
-    <card number="1" price="0" name="Red Elemental Blast" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

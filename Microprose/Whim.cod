@@ -29,10 +29,4 @@
     <card number="1" name="Whimsy" />
   </zone>
   <zone name="side" />
-</cockatrice_deck> price="0" name="Carrion Ants" />
-    <card number="2" price="0" name="Kismet" />
-    <card number="1" price="0" name="Kormus Bell" />
-    <card number="1" price="0" name="Whimsy" />
-  </zone>
-  <zone name="side" />
-</cockatrice_deck>deck>
+</cockatrice_deck>

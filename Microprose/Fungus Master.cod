@@ -22,9 +22,4 @@
   <zone name="side">
     <card number="2" name="Kormus Bell" />
   </zone>
-</cockatrice_deck> number="3" price="0" name="Power Sink" />
-  </zone>
-  <zone name="side">
-    <card number="2" price="0" name="Kormus Bell" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

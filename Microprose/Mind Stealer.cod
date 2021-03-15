@@ -27,9 +27,4 @@
     <card number="1" name="Deathgrip" />
     <card number="1" name="Volcanic Eruption" />
   </zone>
-</cockatrice_deck>zone name="side">
-    <card number="1" price="0" name="Lifetap" />
-    <card number="1" price="0" name="Deathgrip" />
-    <card number="1" price="0" name="Volcanic Eruption" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

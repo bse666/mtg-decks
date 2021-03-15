@@ -22,9 +22,4 @@
     <card number="1" name="Lifeforce" />
     <card number="1" name="Tsunami" />
   </zone>
-</cockatrice_deck>zone>
-  <zone name="side">
-    <card number="1" price="0" name="Lifeforce" />
-    <card number="1" price="0" name="Tsunami" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

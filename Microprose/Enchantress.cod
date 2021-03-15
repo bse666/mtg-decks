@@ -26,9 +26,4 @@
     <card number="2" name="Living Lands" />
     <card number="2" name="Primal Clay" />
   </zone>
-</cockatrice_deck>side">
-    <card number="2" price="0" name="Kormus Bell" />
-    <card number="2" price="0" name="Living Lands" />
-    <card number="2" price="0" name="Primal Clay" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

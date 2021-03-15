@@ -26,9 +26,4 @@
     <card number="2" name="Hurricane" />
   </zone>
   <zone name="side" />
-</cockatrice_deck><card number="2" price="0" name="Fungusaur" />
-    <card number="2" price="0" name="Savannah Lions" />
-    <card number="2" price="0" name="Hurricane" />
-  </zone>
-  <zone name="side" />
-</cockatrice_deck>deck>
+</cockatrice_deck>

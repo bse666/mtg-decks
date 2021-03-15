@@ -60,14 +60,3 @@
     <card number="1" name="Disenchant" />
   </zone>
 </cockatrice_deck>
-    <card number="1" price="0" name="Crystal Rod" />
-    <card number="1" price="0" name="Lifetap" />
-    <card number="1" price="0" name="Wooden Sphere" />
-    <card number="1" price="0" name="Blue Elemental Blast" />
-    <card number="1" price="0" name="Burrowing" />
-    <card number="1" price="0" name="Circle of Protection Red" />
-    <card number="1" price="0" name="Ivory Cup" />
-    <card number="1" price="0" name="Flashfires" />
-    <card number="1" price="0" name="Disenchant" />
-  </zone>
-</cockatrice_deck>deck>

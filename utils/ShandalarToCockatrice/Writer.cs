@@ -9,7 +9,7 @@ namespace ShandalarToCockatrice
         public static void WriteDeck(string path, Deck deck)
         {
             var doc = deck.ToDocument();
-            using var stream = File.OpenWrite(path);
+            using var stream = File.Open(path, FileMode.Create);
             doc.Save(stream);
         }
 

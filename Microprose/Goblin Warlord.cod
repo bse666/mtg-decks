@@ -20,9 +20,4 @@
   <zone name="side">
     <card number="1" name="Red Elemental Blast" />
   </zone>
-</cockatrice_deck>e="Shatter" />
-  </zone>
-  <zone name="side">
-    <card number="1" price="0" name="Red Elemental Blast" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

@@ -21,8 +21,4 @@
     <card number="2" name="Black Ward" />
     <card number="2" name="Green Ward" />
   </zone>
-</cockatrice_deck> name="side">
-    <card number="2" price="0" name="Black Ward" />
-    <card number="2" price="0" name="Green Ward" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

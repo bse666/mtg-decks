@@ -23,8 +23,4 @@
     <card number="1" name="Swords to Plowshares" />
     <card number="2" name="Divine Transformation" />
   </zone>
-</cockatrice_deck>name="side">
-    <card number="1" price="0" name="Swords to Plowshares" />
-    <card number="2" price="0" name="Divine Transformation" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

@@ -24,9 +24,4 @@
     <card number="2" name="Fireball" />
   </zone>
   <zone name="side" />
-</cockatrice_deck>e="0" name="Siren's Call" />
-    <card number="2" price="0" name="Control Magic" />
-    <card number="2" price="0" name="Fireball" />
-  </zone>
-  <zone name="side" />
-</cockatrice_deck>deck>
+</cockatrice_deck>

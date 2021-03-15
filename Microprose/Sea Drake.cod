@@ -20,9 +20,4 @@
   <zone name="side">
     <card number="1" name="Lifetap" />
   </zone>
-</cockatrice_deck>"0" name="Counterspell" />
-  </zone>
-  <zone name="side">
-    <card number="1" price="0" name="Lifetap" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

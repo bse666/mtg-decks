@@ -36,12 +36,4 @@
     <card number="2" name="Stream of Life" />
     <card number="1" name="Gloom" />
   </zone>
-</cockatrice_deck>ce="0" name="Earthquake" />
-  </zone>
-  <zone name="side">
-    <card number="1" price="0" name="Tranquility" />
-    <card number="1" price="0" name="Tsunami" />
-    <card number="2" price="0" name="Stream of Life" />
-    <card number="1" price="0" name="Gloom" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>

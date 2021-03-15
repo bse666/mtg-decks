@@ -20,8 +20,4 @@
     <card number="3" name="Black Knight" />
     <card number="3" name="Winter Orb" />
   </zone>
-</cockatrice_deck>>
-    <card number="3" price="0" name="Black Knight" />
-    <card number="3" price="0" name="Winter Orb" />
-  </zone>
-</cockatrice_deck>deck>
+</cockatrice_deck>
