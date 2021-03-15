@@ -51,18 +51,20 @@ namespace ShandalarToCockatrice
         {
             var toSubtractCache = toSubtract.ToDictionary(GetKey);
 
-            return items.Select(item =>
-            {
-                var count = toSubtractCache.TryGetValue(GetKey(item), out var toSubtractItem)
-                    ? item.Count - toSubtractItem.Count
-                    : item.Count;
-
-                return new DeckItem
+            return items
+                .Select(item =>
                 {
-                    Name = item.Name,
-                    Count = count
-                };
-            });
+                    var count = toSubtractCache.TryGetValue(GetKey(item), out var toSubtractItem)
+                        ? item.Count - toSubtractItem.Count
+                        : item.Count;
+
+                    return new DeckItem
+                    {
+                        Name = item.Name,
+                        Count = count
+                    };
+                })
+                .Where(x => x.Count > 0);
         }
     }
 }

@@ -22,21 +22,20 @@ namespace ShandalarToCockatrice
                     new XElement("deckname", deck.Name),
                     new XElement("comments", ""),
                     new XElement("zone", new XAttribute("name", "main"),
-                        deck.Cards.Select(item => new XElement("card",
-                            new XAttribute("number", item.Count),
-                            new XAttribute("price", "0"),
-                            new XAttribute("name", item.Name)
-                        ))
+                        deck.Cards.Select(ToElement)
                     ),
                     new XElement("zone", new XAttribute("name", "sideboard"),
-                        deck.Sideboard.Select(item => new XElement("card",
-                            new XAttribute("number", item.Count),
-                            new XAttribute("price", "0"),
-                            new XAttribute("name", item.Name)
-                        ))
+                        deck.Sideboard.Select(ToElement)
                     )
                 })
             );
         }
+
+        static XElement ToElement(this DeckItem item) =>
+            new XElement("card",
+                new XAttribute("number", item.Count),
+                new XAttribute("price", "0"),
+                new XAttribute("name", item.Name)
+            );
     }
 }
