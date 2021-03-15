@@ -3,26 +3,31 @@
   <deckname>Priestess</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="23" price="0" name="Plains" />
-    <card number="4" price="0" name="Animate Wall" />
-    <card number="2" price="0" name="Reverse Damage" />
-    <card number="3" price="0" name="Healing Salve" />
-    <card number="3" price="0" name="Ivory Cup" />
-    <card number="4" price="0" name="Wall of Swords" />
-    <card number="4" price="0" name="Wall of Spears" />
-    <card number="3" price="0" name="Spirit Link" />
-    <card number="2" price="0" name="Pikemen" />
-    <card number="2" price="0" name="Fortified Area" />
-    <card number="2" price="0" name="Benalish Hero" />
-    <card number="2" price="0" name="Blessing" />
-    <card number="2" price="0" name="Mesa Pegasus" />
-    <card number="2" price="0" name="Castle" />
-    <card number="2" price="0" name="Elder Land Wurm" />
-    <card number="2" price="0" name="Swords to Plowshares" />
-    <card number="1" price="0" name="Disenchant" />
+    <card number="23" name="Plains" />
+    <card number="4" name="Animate Wall" />
+    <card number="2" name="Reverse Damage" />
+    <card number="3" name="Healing Salve" />
+    <card number="3" name="Ivory Cup" />
+    <card number="4" name="Wall of Swords" />
+    <card number="4" name="Wall of Spears" />
+    <card number="3" name="Spirit Link" />
+    <card number="2" name="Pikemen" />
+    <card number="2" name="Fortified Area" />
+    <card number="2" name="Benalish Hero" />
+    <card number="2" name="Blessing" />
+    <card number="2" name="Mesa Pegasus" />
+    <card number="2" name="Castle" />
+    <card number="2" name="Elder Land Wurm" />
+    <card number="2" name="Swords to Plowshares" />
+    <card number="1" name="Disenchant" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Circle of Protection Black" />
+    <card number="1" name="Circle of Protection Red" />
+  </zone>
+</cockatrice_deck>>
+  <zone name="side">
     <card number="1" price="0" name="Circle of Protection Black" />
     <card number="1" price="0" name="Circle of Protection Red" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

@@ -3,21 +3,26 @@
   <deckname>Goblin Warlord</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="21" price="0" name="Mountain" />
-    <card number="4" price="0" name="Orcish Oriflamme" />
-    <card number="4" price="0" name="Helm of Chatzuk" />
-    <card number="4" price="0" name="Goblin King" />
-    <card number="4" price="0" name="Goblin Balloon Brigade" />
-    <card number="4" price="0" name="Mons Goblin Raiders" />
-    <card number="4" price="0" name="Keldon Warlord" />
-    <card number="4" price="0" name="Goblin Polka Band" />
-    <card number="2" price="0" name="Tawnos' Weaponry" />
-    <card number="2" price="0" name="Immolation" />
-    <card number="4" price="0" name="Giant Strength" />
-    <card number="2" price="0" name="Manabarbs" />
-    <card number="1" price="0" name="Shatter" />
+    <card number="21" name="Mountain" />
+    <card number="4" name="Orcish Oriflamme" />
+    <card number="4" name="Helm of Chatzuk" />
+    <card number="4" name="Goblin King" />
+    <card number="4" name="Goblin Balloon Brigade" />
+    <card number="4" name="Mons Goblin Raiders" />
+    <card number="4" name="Keldon Warlord" />
+    <card number="4" name="Goblin Polka Band" />
+    <card number="2" name="Tawnos' Weaponry" />
+    <card number="2" name="Immolation" />
+    <card number="4" name="Giant Strength" />
+    <card number="2" name="Manabarbs" />
+    <card number="1" name="Shatter" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Red Elemental Blast" />
+  </zone>
+</cockatrice_deck>e="Shatter" />
+  </zone>
+  <zone name="side">
     <card number="1" price="0" name="Red Elemental Blast" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

@@ -3,21 +3,26 @@
   <deckname>Sea Drake</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Island" />
-    <card number="2" price="0" name="Island Fish Jasconius" />
-    <card number="2" price="0" name="Water Elemental" />
-    <card number="4" price="0" name="Sea Serpent" />
-    <card number="4" price="0" name="Siren's Call" />
-    <card number="4" price="0" name="Creature Bond" />
-    <card number="2" price="0" name="Mana Vault" />
-    <card number="4" price="0" name="Jump" />
-    <card number="4" price="0" name="Phantasmal Terrain" />
-    <card number="4" price="0" name="Segovian Leviathan" />
-    <card number="4" price="0" name="Giant Tortoise" />
-    <card number="1" price="0" name="Leviathan" />
-    <card number="3" price="0" name="Counterspell" />
+    <card number="22" name="Island" />
+    <card number="2" name="Island Fish Jasconius" />
+    <card number="2" name="Water Elemental" />
+    <card number="4" name="Sea Serpent" />
+    <card number="4" name="Siren's Call" />
+    <card number="4" name="Creature Bond" />
+    <card number="2" name="Mana Vault" />
+    <card number="4" name="Jump" />
+    <card number="4" name="Phantasmal Terrain" />
+    <card number="4" name="Segovian Leviathan" />
+    <card number="4" name="Giant Tortoise" />
+    <card number="1" name="Leviathan" />
+    <card number="3" name="Counterspell" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Lifetap" />
+  </zone>
+</cockatrice_deck>"0" name="Counterspell" />
+  </zone>
+  <zone name="side">
     <card number="1" price="0" name="Lifetap" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

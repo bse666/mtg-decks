@@ -3,20 +3,23 @@
   <deckname>Arch Angel</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Plains" />
-    <card number="2" price="0" name="Mana Vault" />
-    <card number="4" price="0" name="Wrath of God" />
-    <card number="4" price="0" name="Soul Net" />
-    <card number="4" price="0" name="Mishra's Factory" />
-    <card number="4" price="0" name="The Hive" />
-    <card number="4" price="0" name="Serra Angel" />
-    <card number="4" price="0" name="Onulet" />
-    <card number="4" price="0" name="Osai Vultures" />
-    <card number="4" price="0" name="Tetravus" />
-    <card number="4" price="0" name="Swords to Plowshares" />
+    <card number="22" name="Plains" />
+    <card number="2" name="Mana Vault" />
+    <card number="4" name="Wrath of God" />
+    <card number="4" name="Soul Net" />
+    <card number="4" name="Mishra's Factory" />
+    <card number="4" name="The Hive" />
+    <card number="4" name="Serra Angel" />
+    <card number="4" name="Onulet" />
+    <card number="4" name="Osai Vultures" />
+    <card number="4" name="Tetravus" />
+    <card number="4" name="Swords to Plowshares" />
   </zone>
-  <zone name="sideboard">
-    <card number="3" price="0" name="Reverse Damage" />
+  <zone name="side">
+    <card number="3" name="Reverse Damage" />
+    <card number="3" name="Disenchant" />
+  </zone>
+</cockatrice_deck> number="3" price="0" name="Reverse Damage" />
     <card number="3" price="0" name="Disenchant" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

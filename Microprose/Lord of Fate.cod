@@ -3,25 +3,29 @@
   <deckname>Lord of Fate</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="11" price="0" name="Plains" />
-    <card number="11" price="0" name="Swamp" />
-    <card number="2" price="0" name="Dark Ritual" />
-    <card number="3" price="0" name="Castle" />
-    <card number="3" price="0" name="Healing Salve" />
-    <card number="3" price="0" name="Holy Strength" />
-    <card number="3" price="0" name="Unholy Strength" />
-    <card number="4" price="0" name="Yotian Soldiers" />
-    <card number="4" price="0" name="Serra Angel" />
-    <card number="3" price="0" name="Osai Vultures" />
-    <card number="3" price="0" name="Pestilence" />
-    <card number="2" price="0" name="Necropolis of Azaar" />
-    <card number="3" price="0" name="Drudge Skeletons" />
-    <card number="2" price="0" name="Divine Transformation" />
-    <card number="3" price="0" name="Ornithopter" />
+    <card number="11" name="Plains" />
+    <card number="11" name="Swamp" />
+    <card number="2" name="Dark Ritual" />
+    <card number="3" name="Castle" />
+    <card number="3" name="Healing Salve" />
+    <card number="3" name="Holy Strength" />
+    <card number="3" name="Unholy Strength" />
+    <card number="4" name="Yotian Soldiers" />
+    <card number="4" name="Serra Angel" />
+    <card number="3" name="Osai Vultures" />
+    <card number="3" name="Pestilence" />
+    <card number="2" name="Necropolis of Azaar" />
+    <card number="3" name="Drudge Skeletons" />
+    <card number="2" name="Divine Transformation" />
+    <card number="3" name="Ornithopter" />
   </zone>
-  <zone name="sideboard">
-    <card number="3" price="0" name="Brass Man" />
+  <zone name="side">
+    <card number="3" name="Brass Man" />
+    <card number="3" name="Animate Dead" />
+    <card number="3" name="Amulet of Kroog" />
+  </zone>
+</cockatrice_deck>er="3" price="0" name="Brass Man" />
     <card number="3" price="0" name="Animate Dead" />
     <card number="3" price="0" name="Amulet of Kroog" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

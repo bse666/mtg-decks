@@ -3,24 +3,30 @@
   <deckname>Astral Visionary</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="24" price="0" name="Island" />
-    <card number="4" price="0" name="Counterspell" />
-    <card number="1" price="0" name="Ancestral Recall" />
-    <card number="1" price="0" name="Time Walk" />
-    <card number="1" price="0" name="Timetwister" />
-    <card number="1" price="0" name="Copy Artifact" />
-    <card number="4" price="0" name="Leviathan" />
-    <card number="4" price="0" name="Stasis" />
-    <card number="1" price="0" name="Mox Sapphire" />
-    <card number="1" price="0" name="Black Lotus" />
-    <card number="2" price="0" name="Twiddle" />
-    <card number="4" price="0" name="Yotian Soldiers" />
-    <card number="4" price="0" name="Howling Mine" />
-    <card number="4" price="0" name="Zephyr Falcon" />
-    <card number="3" price="0" name="Unstable Mutation" />
+    <card number="24" name="Island" />
+    <card number="4" name="Counterspell" />
+    <card number="1" name="Ancestral Recall" />
+    <card number="1" name="Time Walk" />
+    <card number="1" name="Timetwister" />
+    <card number="1" name="Copy Artifact" />
+    <card number="4" name="Leviathan" />
+    <card number="4" name="Stasis" />
+    <card number="1" name="Mox Sapphire" />
+    <card number="1" name="Black Lotus" />
+    <card number="2" name="Twiddle" />
+    <card number="4" name="Yotian Soldiers" />
+    <card number="4" name="Howling Mine" />
+    <card number="4" name="Zephyr Falcon" />
+    <card number="3" name="Unstable Mutation" />
+    <card number="3" name="Drain Power" />
+  </zone>
+  <zone name="side">
+    <card number="2" name="Lifetap" />
+  </zone>
+</cockatrice_deck>/>
     <card number="3" price="0" name="Drain Power" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
     <card number="2" price="0" name="Lifetap" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

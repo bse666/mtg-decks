@@ -3,69 +3,84 @@
   <deckname>Arzakon</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="2" price="0" name="Hurr Jackal" />
-    <card number="6" price="0" name="Forest" />
-    <card number="6" price="0" name="Mountain" />
-    <card number="1" price="0" name="Mox Emerald" />
-    <card number="1" price="0" name="Mox Jet" />
-    <card number="1" price="0" name="Mox Pearl" />
-    <card number="1" price="0" name="Mox Ruby" />
-    <card number="1" price="0" name="Mox Sapphire" />
-    <card number="6" price="0" name="Swamp" />
-    <card number="6" price="0" name="Plains" />
-    <card number="6" price="0" name="Island" />
-    <card number="4" price="0" name="Gem Bazaar" />
-    <card number="2" price="0" name="Elvish Archers" />
-    <card number="2" price="0" name="Erg Raiders" />
-    <card number="2" price="0" name="Grizzly Bears" />
-    <card number="2" price="0" name="Mesa Pegasus" />
-    <card number="2" price="0" name="Pikemen" />
-    <card number="2" price="0" name="Samite Healer" />
-    <card number="2" price="0" name="Savannah Lions" />
-    <card number="2" price="0" name="Will-O'-The-Wisp" />
-    <card number="2" price="0" name="Zephyr Falcon" />
-    <card number="2" price="0" name="Wall of Dust" />
-    <card number="1" price="0" name="Ancestral Recall" />
-    <card number="1" price="0" name="Berserk" />
-    <card number="1" price="0" name="Regrowth" />
-    <card number="1" price="0" name="Time Walk" />
-    <card number="1" price="0" name="Timetwister" />
-    <card number="1" price="0" name="Wheel of Fortune" />
-    <card number="1" price="0" name="Sol Ring" />
-    <card number="1" price="0" name="Braingeyser" />
-    <card number="2" price="0" name="Animate Dead" />
-    <card number="2" price="0" name="Blood Lust" />
-    <card number="1" price="0" name="Circle of Protection: Artifacts" />
-    <card number="1" price="0" name="Circle of Protection: Black" />
-    <card number="1" price="0" name="Circle of Protection: Blue" />
-    <card number="1" price="0" name="Circle of Protection: Green" />
-    <card number="1" price="0" name="Circle of Protection: Red" />
-    <card number="1" price="0" name="Circle of Protection: White" />
-    <card number="2" price="0" name="Desert Twister" />
-    <card number="2" price="0" name="Disintegrate" />
-    <card number="2" price="0" name="Fog" />
-    <card number="2" price="0" name="Giant Growth" />
-    <card number="2" price="0" name="Giant Strength" />
-    <card number="2" price="0" name="Howl from Beyond" />
-    <card number="2" price="0" name="Immolation" />
-    <card number="2" price="0" name="Lightning Bolt" />
-    <card number="1" price="0" name="Mind Twist" />
-    <card number="2" price="0" name="Paralyze" />
-    <card number="2" price="0" name="Power Sink" />
-    <card number="2" price="0" name="Pyrotechnics" />
-    <card number="2" price="0" name="Raise Dead" />
-    <card number="2" price="0" name="Siren's Call" />
-    <card number="2" price="0" name="Spirit Link" />
-    <card number="4" price="0" name="Mishra's Factory" />
-    <card number="1" price="0" name="Aladdin's Ring" />
-    <card number="1" price="0" name="Black Mana Battery" />
-    <card number="1" price="0" name="Blue Mana Battery" />
-    <card number="2" price="0" name="Brass Man" />
-    <card number="1" price="0" name="Clockwork Avian" />
-    <card number="1" price="0" name="Clockwork Beast" />
-    <card number="1" price="0" name="Colossus of Sardia" />
-    <card number="1" price="0" name="Dancing Scimitar" />
-    <card number="1" price="0" name="Diabolic Machine" />
+    <card number="2" name="Hurr Jackal" />
+    <card number="6" name="Forest" />
+    <card number="6" name="Mountain" />
+    <card number="1" name="Mox Emerald" />
+    <card number="1" name="Mox Jet" />
+    <card number="1" name="Mox Pearl" />
+    <card number="1" name="Mox Ruby" />
+    <card number="1" name="Mox Sapphire" />
+    <card number="6" name="Swamp" />
+    <card number="6" name="Plains" />
+    <card number="6" name="Island" />
+    <card number="4" name="Gem Bazaar" />
+    <card number="2" name="Elvish Archers" />
+    <card number="2" name="Erg Raiders" />
+    <card number="2" name="Grizzly Bears" />
+    <card number="2" name="Mesa Pegasus" />
+    <card number="2" name="Pikemen" />
+    <card number="2" name="Samite Healer" />
+    <card number="2" name="Savannah Lions" />
+    <card number="2" name="Will-O'-The-Wisp" />
+    <card number="2" name="Zephyr Falcon" />
+    <card number="2" name="Wall of Dust" />
+    <card number="1" name="Ancestral Recall" />
+    <card number="1" name="Berserk" />
+    <card number="1" name="Regrowth" />
+    <card number="1" name="Time Walk" />
+    <card number="1" name="Timetwister" />
+    <card number="1" name="Wheel of Fortune" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Braingeyser" />
+    <card number="2" name="Animate Dead" />
+    <card number="2" name="Blood Lust" />
+    <card number="1" name="Circle of Protection: Artifacts" />
+    <card number="1" name="Circle of Protection: Black" />
+    <card number="1" name="Circle of Protection: Blue" />
+    <card number="1" name="Circle of Protection: Green" />
+    <card number="1" name="Circle of Protection: Red" />
+    <card number="1" name="Circle of Protection: White" />
+    <card number="2" name="Desert Twister" />
+    <card number="2" name="Disintegrate" />
+    <card number="2" name="Fog" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Giant Strength" />
+    <card number="2" name="Howl from Beyond" />
+    <card number="2" name="Immolation" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="1" name="Mind Twist" />
+    <card number="2" name="Paralyze" />
+    <card number="2" name="Power Sink" />
+    <card number="2" name="Pyrotechnics" />
+    <card number="2" name="Raise Dead" />
+    <card number="2" name="Siren's Call" />
+    <card number="2" name="Spirit Link" />
+    <card number="4" name="Mishra's Factory" />
+    <card number="1" name="Aladdin's Ring" />
+    <card number="1" name="Black Mana Battery" />
+    <card number="1" name="Blue Mana Battery" />
+    <card number="2" name="Brass Man" />
+    <card number="1" name="Clockwork Avian" />
+    <card number="1" name="Clockwork Beast" />
+    <card number="1" name="Colossus of Sardia" />
+    <card number="1" name="Dancing Scimitar" />
+    <card number="1" name="Diabolic Machine" />
+    <card number="4" name="Fellwar Stone" />
+    <card number="1" name="Green Mana Battery" />
+    <card number="1" name="Grapeshot Catapult" />
+    <card number="1" name="Obsianus Golem" />
+    <card number="1" name="Shapeshifter" />
+    <card number="1" name="Tetravus" />
+    <card number="2" name="The Hive" />
+    <card number="1" name="Triskelion" />
+    <card number="1" name="Urza's Avenger" />
+    <card number="1" name="White Mana Battery" />
+    <card number="1" name="Red Mana Battery" />
+    <card number="1" name="Mishra's Workshop" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck>c Machine" />
     <card number="4" price="0" name="Fellwar Stone" />
     <card number="1" price="0" name="Green Mana Battery" />
     <card number="1" price="0" name="Grapeshot Catapult" />
@@ -79,5 +94,5 @@
     <card number="1" price="0" name="Red Mana Battery" />
     <card number="1" price="0" name="Mishra's Workshop" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

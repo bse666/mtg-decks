@@ -3,22 +3,26 @@
   <deckname>Crusader</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Plains" />
-    <card number="4" price="0" name="Crusade" />
-    <card number="4" price="0" name="Castle" />
-    <card number="2" price="0" name="Disenchant" />
-    <card number="4" price="0" name="White Knight" />
-    <card number="4" price="0" name="Eye for an Eye" />
-    <card number="2" price="0" name="Morale" />
-    <card number="4" price="0" name="Pikemen" />
-    <card number="4" price="0" name="Knights of the Rainbow Vale" />
-    <card number="2" price="0" name="Battering Ram" />
-    <card number="2" price="0" name="Dancing Scimitar" />
-    <card number="4" price="0" name="Benalish Hero" />
-    <card number="4" price="0" name="Swords to Plowshares" />
+    <card number="22" name="Plains" />
+    <card number="4" name="Crusade" />
+    <card number="4" name="Castle" />
+    <card number="2" name="Disenchant" />
+    <card number="4" name="White Knight" />
+    <card number="4" name="Eye for an Eye" />
+    <card number="2" name="Morale" />
+    <card number="4" name="Pikemen" />
+    <card number="4" name="Knights of the Rainbow Vale" />
+    <card number="2" name="Battering Ram" />
+    <card number="2" name="Dancing Scimitar" />
+    <card number="4" name="Benalish Hero" />
+    <card number="4" name="Swords to Plowshares" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Black Ward" />
+    <card number="2" name="Green Ward" />
+  </zone>
+</cockatrice_deck> name="side">
     <card number="2" price="0" name="Black Ward" />
     <card number="2" price="0" name="Green Ward" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

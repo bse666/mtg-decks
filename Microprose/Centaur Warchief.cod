@@ -3,25 +3,31 @@
   <deckname>Centaur Warchief</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="12" price="0" name="Plains" />
-    <card number="12" price="0" name="Mountain" />
-    <card number="4" price="0" name="Serra Angel" />
-    <card number="4" price="0" name="Yotian Soldiers" />
-    <card number="2" price="0" name="Wall of Swords" />
-    <card number="3" price="0" name="Smoke" />
-    <card number="2" price="0" name="Eternal Warrior" />
-    <card number="2" price="0" name="Lightning Bolt" />
-    <card number="2" price="0" name="Healing Salve" />
-    <card number="3" price="0" name="Kismet" />
-    <card number="2" price="0" name="Colossus of Sardia" />
-    <card number="2" price="0" name="Cave People" />
-    <card number="2" price="0" name="Ali Baba" />
-    <card number="2" price="0" name="Dragon Whelp" />
-    <card number="2" price="0" name="Savannah Lions" />
-    <card number="1" price="0" name="Land Tax" />
-    <card number="3" price="0" name="Swords to Plowshares" />
+    <card number="12" name="Plains" />
+    <card number="12" name="Mountain" />
+    <card number="4" name="Serra Angel" />
+    <card number="4" name="Yotian Soldiers" />
+    <card number="2" name="Wall of Swords" />
+    <card number="3" name="Smoke" />
+    <card number="2" name="Eternal Warrior" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="2" name="Healing Salve" />
+    <card number="3" name="Kismet" />
+    <card number="2" name="Colossus of Sardia" />
+    <card number="2" name="Cave People" />
+    <card number="2" name="Ali Baba" />
+    <card number="2" name="Dragon Whelp" />
+    <card number="2" name="Savannah Lions" />
+    <card number="1" name="Land Tax" />
+    <card number="3" name="Swords to Plowshares" />
   </zone>
-  <zone name="sideboard">
-    <card number="2" price="0" name="Kormus Bell" />
+  <zone name="side">
+    <card number="2" name="Kormus Bell" />
   </zone>
 </cockatrice_deck>
+    <card number="3" price="0" name="Swords to Plowshares" />
+  </zone>
+  <zone name="side">
+    <card number="2" price="0" name="Kormus Bell" />
+  </zone>
+</cockatrice_deck>deck>

@@ -3,22 +3,27 @@
   <deckname>Sedge Beast</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="10" price="0" name="Mountain" />
-    <card number="10" price="0" name="Swamp" />
-    <card number="4" price="0" name="Strip Mine" />
-    <card number="2" price="0" name="Dancing Scimitar" />
-    <card number="4" price="0" name="Uthden Troll" />
-    <card number="4" price="0" name="Stone Rain" />
-    <card number="4" price="0" name="Blight" />
-    <card number="4" price="0" name="Fissure" />
-    <card number="4" price="0" name="Erg Raiders" />
-    <card number="4" price="0" name="Ironclaw Orcs" />
-    <card number="4" price="0" name="Cyclopean Mummy" />
-    <card number="2" price="0" name="Diabolic Machine" />
-    <card number="2" price="0" name="Immolation" />
-    <card number="2" price="0" name="Weakness" />
+    <card number="10" name="Mountain" />
+    <card number="10" name="Swamp" />
+    <card number="4" name="Strip Mine" />
+    <card number="2" name="Dancing Scimitar" />
+    <card number="4" name="Uthden Troll" />
+    <card number="4" name="Stone Rain" />
+    <card number="4" name="Blight" />
+    <card number="4" name="Fissure" />
+    <card number="4" name="Erg Raiders" />
+    <card number="4" name="Ironclaw Orcs" />
+    <card number="4" name="Cyclopean Mummy" />
+    <card number="2" name="Diabolic Machine" />
+    <card number="2" name="Immolation" />
+    <card number="2" name="Weakness" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Hurr Jackal" />
+  </zone>
+</cockatrice_deck>"2" price="0" name="Weakness" />
+  </zone>
+  <zone name="side">
     <card number="2" price="0" name="Hurr Jackal" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

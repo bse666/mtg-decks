@@ -3,23 +3,27 @@
   <deckname>Sorceress</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="23" price="0" name="Mountain" />
-    <card number="3" price="0" name="Iron Star" />
-    <card number="4" price="0" name="Firebreathing" />
-    <card number="4" price="0" name="Hurr Jackal" />
-    <card number="4" price="0" name="Bird Maiden" />
-    <card number="4" price="0" name="Dwarven Warriors" />
-    <card number="2" price="0" name="Hurloon Minotaur" />
-    <card number="2" price="0" name="Dragon Whelp" />
-    <card number="4" price="0" name="Blood Lust" />
-    <card number="3" price="0" name="Ball Lightning" />
-    <card number="2" price="0" name="Meekstone" />
-    <card number="3" price="0" name="The Brute" />
-    <card number="2" price="0" name="Shatter" />
+    <card number="23" name="Mountain" />
+    <card number="3" name="Iron Star" />
+    <card number="4" name="Firebreathing" />
+    <card number="4" name="Hurr Jackal" />
+    <card number="4" name="Bird Maiden" />
+    <card number="4" name="Dwarven Warriors" />
+    <card number="2" name="Hurloon Minotaur" />
+    <card number="2" name="Dragon Whelp" />
+    <card number="4" name="Blood Lust" />
+    <card number="3" name="Ball Lightning" />
+    <card number="2" name="Meekstone" />
+    <card number="3" name="The Brute" />
+    <card number="2" name="Shatter" />
   </zone>
-  <zone name="sideboard">
-    <card number="1" price="0" name="The Brute" />
+  <zone name="side">
+    <card number="1" name="The Brute" />
+    <card number="1" name="Red Elemental Blast" />
+    <card number="1" name="Sunglasses of Urza" />
+  </zone>
+</cockatrice_deck>te" />
     <card number="1" price="0" name="Red Elemental Blast" />
     <card number="1" price="0" name="Sunglasses of Urza" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

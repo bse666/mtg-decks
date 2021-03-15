@@ -3,28 +3,33 @@
   <deckname>Undead Knight</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Swamp" />
-    <card number="3" price="0" name="Howl from Beyond" />
-    <card number="3" price="0" name="Unholy Strength" />
-    <card number="4" price="0" name="Bad Moon" />
-    <card number="2" price="0" name="Flying Carpet" />
-    <card number="4" price="0" name="Black Knight" />
-    <card number="2" price="0" name="Drudge Skeletons" />
-    <card number="2" price="0" name="Scathe Zombies" />
-    <card number="2" price="0" name="Frozen Shade" />
-    <card number="2" price="0" name="Fear" />
-    <card number="2" price="0" name="Spirit Shackle" />
-    <card number="2" price="0" name="Lost Soul" />
-    <card number="3" price="0" name="El-Hajjaj" />
-    <card number="2" price="0" name="Marsh Gas" />
-    <card number="2" price="0" name="Nightmare" />
-    <card number="3" price="0" name="Terror" />
+    <card number="22" name="Swamp" />
+    <card number="3" name="Howl from Beyond" />
+    <card number="3" name="Unholy Strength" />
+    <card number="4" name="Bad Moon" />
+    <card number="2" name="Flying Carpet" />
+    <card number="4" name="Black Knight" />
+    <card number="2" name="Drudge Skeletons" />
+    <card number="2" name="Scathe Zombies" />
+    <card number="2" name="Frozen Shade" />
+    <card number="2" name="Fear" />
+    <card number="2" name="Spirit Shackle" />
+    <card number="2" name="Lost Soul" />
+    <card number="3" name="El-Hajjaj" />
+    <card number="2" name="Marsh Gas" />
+    <card number="2" name="Nightmare" />
+    <card number="3" name="Terror" />
   </zone>
-  <zone name="sideboard">
-    <card number="3" price="0" name="Bog Wraith" />
-    <card number="3" price="0" name="Animate Dead" />
+  <zone name="side">
+    <card number="3" name="Bog Wraith" />
+    <card number="3" name="Animate Dead" />
+    <card number="3" name="Simulacrum" />
+    <card number="2" name="Brass Man" />
+    <card number="1" name="Obsianus Golem" />
+  </zone>
+</cockatrice_deck>"Animate Dead" />
     <card number="3" price="0" name="Simulacrum" />
     <card number="2" price="0" name="Brass Man" />
     <card number="1" price="0" name="Obsianus Golem" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

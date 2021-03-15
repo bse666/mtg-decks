@@ -3,30 +3,35 @@
   <deckname>Mandurang</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="2" price="0" name="Carrion Ants" />
-    <card number="4" price="0" name="Zephyr Falcon" />
-    <card number="4" price="0" name="Will-O-The-Wisp" />
-    <card number="4" price="0" name="Dancing Scimitar" />
-    <card number="4" price="0" name="Ornithopter" />
-    <card number="2" price="0" name="Celestial Prism" />
-    <card number="6" price="0" name="Mountain" />
-    <card number="6" price="0" name="Swamp" />
-    <card number="6" price="0" name="Island" />
-    <card number="1" price="0" name="Mox Ruby" />
-    <card number="1" price="0" name="Mox Jet" />
-    <card number="1" price="0" name="Mox Sapphire" />
-    <card number="2" price="0" name="Jayemdae Tome" />
-    <card number="4" price="0" name="Giant Strength" />
-    <card number="4" price="0" name="Unstable Mutation" />
-    <card number="4" price="0" name="Unholy Strength" />
-    <card number="1" price="0" name="Braingeyser" />
-    <card number="1" price="0" name="Blood Lust" />
-    <card number="3" price="0" name="Cursed Land" />
+    <card number="2" name="Carrion Ants" />
+    <card number="4" name="Zephyr Falcon" />
+    <card number="4" name="Will-O-The-Wisp" />
+    <card number="4" name="Dancing Scimitar" />
+    <card number="4" name="Ornithopter" />
+    <card number="2" name="Celestial Prism" />
+    <card number="6" name="Mountain" />
+    <card number="6" name="Swamp" />
+    <card number="6" name="Island" />
+    <card number="1" name="Mox Ruby" />
+    <card number="1" name="Mox Jet" />
+    <card number="1" name="Mox Sapphire" />
+    <card number="2" name="Jayemdae Tome" />
+    <card number="4" name="Giant Strength" />
+    <card number="4" name="Unstable Mutation" />
+    <card number="4" name="Unholy Strength" />
+    <card number="1" name="Braingeyser" />
+    <card number="1" name="Blood Lust" />
+    <card number="3" name="Cursed Land" />
   </zone>
-  <zone name="sideboard">
-    <card number="3" price="0" name="Bog Wraith" />
+  <zone name="side">
+    <card number="3" name="Bog Wraith" />
+    <card number="3" name="Red Elemental Blast" />
+    <card number="2" name="Deathgrip" />
+    <card number="1" name="Lifetap" />
+  </zone>
+</cockatrice_deck>="3" price="0" name="Bog Wraith" />
     <card number="3" price="0" name="Red Elemental Blast" />
     <card number="2" price="0" name="Deathgrip" />
     <card number="1" price="0" name="Lifetap" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

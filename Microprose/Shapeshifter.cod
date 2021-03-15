@@ -3,21 +3,25 @@
   <deckname>Shapeshifter</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="20" price="0" name="Island" />
-    <card number="4" price="0" name="Mishra's Factory" />
-    <card number="4" price="0" name="Unsummon" />
-    <card number="2" price="0" name="Power Struggle" />
-    <card number="4" price="0" name="Hurkyl's Recall" />
-    <card number="3" price="0" name="Shapeshifter" />
-    <card number="4" price="0" name="Primal Clay" />
-    <card number="3" price="0" name="Mana Vault" />
-    <card number="2" price="0" name="Fellwar Stone" />
-    <card number="3" price="0" name="Apprentice Wizard" />
-    <card number="2" price="0" name="Backfire" />
-    <card number="1" price="0" name="Ivory Tower" />
-    <card number="4" price="0" name="Unstable Mutation" />
-    <card number="3" price="0" name="Urza's Avenger" />
+    <card number="20" name="Island" />
+    <card number="4" name="Mishra's Factory" />
+    <card number="4" name="Unsummon" />
+    <card number="2" name="Power Struggle" />
+    <card number="4" name="Hurkyl's Recall" />
+    <card number="3" name="Shapeshifter" />
+    <card number="4" name="Primal Clay" />
+    <card number="3" name="Mana Vault" />
+    <card number="2" name="Fellwar Stone" />
+    <card number="3" name="Apprentice Wizard" />
+    <card number="2" name="Backfire" />
+    <card number="1" name="Ivory Tower" />
+    <card number="4" name="Unstable Mutation" />
+    <card number="3" name="Urza's Avenger" />
+    <card number="3" name="Triskelion" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck>ber="3" price="0" name="Urza's Avenger" />
     <card number="3" price="0" name="Triskelion" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

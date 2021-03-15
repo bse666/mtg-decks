@@ -3,25 +3,29 @@
   <deckname>Forest Dragon</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Forest" />
-    <card number="4" price="0" name="Craw Wurm" />
-    <card number="4" price="0" name="Cockatrice" />
-    <card number="4" price="0" name="Thicket Basilisk" />
-    <card number="3" price="0" name="Desert Twister" />
-    <card number="2" price="0" name="Stream of Life" />
-    <card number="4" price="0" name="Lure" />
-    <card number="2" price="0" name="Regeneration" />
-    <card number="4" price="0" name="Untamed Wilds" />
-    <card number="4" price="0" name="Llanowar Elves" />
-    <card number="3" price="0" name="Living Lands" />
-    <card number="2" price="0" name="Sandstorm" />
-    <card number="2" price="0" name="Wall of Brambles" />
-    <card number="1" price="0" name="Crumble" />
+    <card number="22" name="Forest" />
+    <card number="4" name="Craw Wurm" />
+    <card number="4" name="Cockatrice" />
+    <card number="4" name="Thicket Basilisk" />
+    <card number="3" name="Desert Twister" />
+    <card number="2" name="Stream of Life" />
+    <card number="4" name="Lure" />
+    <card number="2" name="Regeneration" />
+    <card number="4" name="Untamed Wilds" />
+    <card number="4" name="Llanowar Elves" />
+    <card number="3" name="Living Lands" />
+    <card number="2" name="Sandstorm" />
+    <card number="2" name="Wall of Brambles" />
+    <card number="1" name="Crumble" />
   </zone>
-  <zone name="sideboard">
-    <card number="1" price="0" name="Wall of Brambles" />
-    <card number="2" price="0" name="Giant Spider" />
+  <zone name="side">
+    <card number="1" name="Wall of Brambles" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Living Lands" />
+    <card number="2" name="Stream of Life" />
+  </zone>
+</cockatrice_deck>="2" price="0" name="Giant Spider" />
     <card number="2" price="0" name="Living Lands" />
     <card number="2" price="0" name="Stream of Life" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

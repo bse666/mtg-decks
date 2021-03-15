@@ -3,20 +3,25 @@
   <deckname>Warlock</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="23" price="0" name="Swamp" />
-    <card number="4" price="0" name="Dark Ritual" />
-    <card number="4" price="0" name="Drain Life" />
-    <card number="4" price="0" name="Howl from Beyond" />
-    <card number="4" price="0" name="Hypnotic Specter" />
-    <card number="4" price="0" name="El-Hajjaj" />
-    <card number="4" price="0" name="Pit Scorpion" />
-    <card number="4" price="0" name="Tawnos' Wand" />
-    <card number="2" price="0" name="Frozen Shade" />
-    <card number="4" price="0" name="Murk Dwellers" />
-    <card number="1" price="0" name="Terror" />
-    <card number="2" price="0" name="Fear" />
+    <card number="23" name="Swamp" />
+    <card number="4" name="Dark Ritual" />
+    <card number="4" name="Drain Life" />
+    <card number="4" name="Howl from Beyond" />
+    <card number="4" name="Hypnotic Specter" />
+    <card number="4" name="El-Hajjaj" />
+    <card number="4" name="Pit Scorpion" />
+    <card number="4" name="Tawnos' Wand" />
+    <card number="2" name="Frozen Shade" />
+    <card number="4" name="Murk Dwellers" />
+    <card number="1" name="Terror" />
+    <card number="2" name="Fear" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="3" name="Throne of Bone" />
+  </zone>
+</cockatrice_deck>"Fear" />
+  </zone>
+  <zone name="side">
     <card number="3" price="0" name="Throne of Bone" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

@@ -3,21 +3,25 @@
   <deckname>Ape Lord</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="12" price="0" name="Forest" />
-    <card number="10" price="0" name="Mountain" />
-    <card number="2" price="0" name="Mana Vault" />
-    <card number="4" price="0" name="Birds of Paradise" />
-    <card number="4" price="0" name="Llanowar Elves" />
-    <card number="1" price="0" name="Detonate" />
-    <card number="4" price="0" name="Winter Blast" />
-    <card number="4" price="0" name="Killer Bees" />
-    <card number="2" price="0" name="Shivan Dragon" />
-    <card number="2" price="0" name="Craw Wurm" />
-    <card number="2" price="0" name="Dragon Engine" />
-    <card number="3" price="0" name="Stream of Life" />
-    <card number="3" price="0" name="Fireball" />
-    <card number="3" price="0" name="Disintegrate" />
+    <card number="12" name="Forest" />
+    <card number="10" name="Mountain" />
+    <card number="2" name="Mana Vault" />
+    <card number="4" name="Birds of Paradise" />
+    <card number="4" name="Llanowar Elves" />
+    <card number="1" name="Detonate" />
+    <card number="4" name="Winter Blast" />
+    <card number="4" name="Killer Bees" />
+    <card number="2" name="Shivan Dragon" />
+    <card number="2" name="Craw Wurm" />
+    <card number="2" name="Dragon Engine" />
+    <card number="3" name="Stream of Life" />
+    <card number="3" name="Fireball" />
+    <card number="3" name="Disintegrate" />
+    <card number="4" name="Firebreathing" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck>er="3" price="0" name="Disintegrate" />
     <card number="4" price="0" name="Firebreathing" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

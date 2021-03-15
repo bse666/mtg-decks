@@ -3,21 +3,25 @@
   <deckname>Vampire Lord</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Swamp" />
-    <card number="4" price="0" name="Dark Ritual" />
-    <card number="3" price="0" name="Mana Vault" />
-    <card number="4" price="0" name="Animate Dead" />
-    <card number="4" price="0" name="Weakness" />
-    <card number="4" price="0" name="Sengir Vampire" />
-    <card number="4" price="0" name="Sorceress Queen" />
-    <card number="4" price="0" name="Carrion Ants" />
-    <card number="4" price="0" name="Vampire Bats" />
-    <card number="2" price="0" name="Uncle Istvan" />
-    <card number="2" price="0" name="Terror" />
-    <card number="3" price="0" name="Howling Mine" />
+    <card number="22" name="Swamp" />
+    <card number="4" name="Dark Ritual" />
+    <card number="3" name="Mana Vault" />
+    <card number="4" name="Animate Dead" />
+    <card number="4" name="Weakness" />
+    <card number="4" name="Sengir Vampire" />
+    <card number="4" name="Sorceress Queen" />
+    <card number="4" name="Carrion Ants" />
+    <card number="4" name="Vampire Bats" />
+    <card number="2" name="Uncle Istvan" />
+    <card number="2" name="Terror" />
+    <card number="3" name="Howling Mine" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="3" name="Black Knight" />
+    <card number="3" name="Winter Orb" />
+  </zone>
+</cockatrice_deck>>
     <card number="3" price="0" name="Black Knight" />
     <card number="3" price="0" name="Winter Orb" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

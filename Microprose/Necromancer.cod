@@ -3,24 +3,29 @@
   <deckname>Necromancer</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Swamp" />
-    <card number="2" price="0" name="Dark Ritual" />
-    <card number="4" price="0" name="Evil Presence" />
-    <card number="2" price="0" name="Unholy Strength" />
-    <card number="2" price="0" name="Drain Life" />
-    <card number="4" price="0" name="Scathe Zombies" />
-    <card number="4" price="0" name="Zombie Master" />
-    <card number="4" price="0" name="Bog Wraith" />
-    <card number="2" price="0" name="Wall of Bone" />
-    <card number="4" price="0" name="Lost Soul" />
-    <card number="2" price="0" name="Bad Moon" />
-    <card number="2" price="0" name="Raise Dead" />
-    <card number="2" price="0" name="Necropolis of Azaar" />
-    <card number="2" price="0" name="Animate Dead" />
-    <card number="2" price="0" name="Cosmic Horror" />
+    <card number="22" name="Swamp" />
+    <card number="2" name="Dark Ritual" />
+    <card number="4" name="Evil Presence" />
+    <card number="2" name="Unholy Strength" />
+    <card number="2" name="Drain Life" />
+    <card number="4" name="Scathe Zombies" />
+    <card number="4" name="Zombie Master" />
+    <card number="4" name="Bog Wraith" />
+    <card number="2" name="Wall of Bone" />
+    <card number="4" name="Lost Soul" />
+    <card number="2" name="Bad Moon" />
+    <card number="2" name="Raise Dead" />
+    <card number="2" name="Necropolis of Azaar" />
+    <card number="2" name="Animate Dead" />
+    <card number="2" name="Cosmic Horror" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Paralyze" />
+    <card number="1" name="Throne of Bone" />
+  </zone>
+</cockatrice_deck>  </zone>
+  <zone name="side">
     <card number="2" price="0" name="Paralyze" />
     <card number="1" price="0" name="Throne of Bone" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

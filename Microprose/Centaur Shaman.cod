@@ -3,23 +3,28 @@
   <deckname>Centaur Shaman</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="11" price="0" name="Forest" />
-    <card number="11" price="0" name="Swamp" />
-    <card number="3" price="0" name="Paralyze" />
-    <card number="4" price="0" name="Wanderlust" />
-    <card number="4" price="0" name="Warp Artifact" />
-    <card number="2" price="0" name="Stream of Life" />
-    <card number="4" price="0" name="Cursed Land" />
-    <card number="2" price="0" name="Birds of Paradise" />
-    <card number="3" price="0" name="Cockatrice" />
-    <card number="4" price="0" name="Onulet" />
-    <card number="2" price="0" name="Dark Ritual" />
-    <card number="4" price="0" name="Carrion Ants" />
-    <card number="2" price="0" name="Pestilence" />
-    <card number="4" price="0" name="Whirling Dervish" />
+    <card number="11" name="Forest" />
+    <card number="11" name="Swamp" />
+    <card number="3" name="Paralyze" />
+    <card number="4" name="Wanderlust" />
+    <card number="4" name="Warp Artifact" />
+    <card number="2" name="Stream of Life" />
+    <card number="4" name="Cursed Land" />
+    <card number="2" name="Birds of Paradise" />
+    <card number="3" name="Cockatrice" />
+    <card number="4" name="Onulet" />
+    <card number="2" name="Dark Ritual" />
+    <card number="4" name="Carrion Ants" />
+    <card number="2" name="Pestilence" />
+    <card number="4" name="Whirling Dervish" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Lifeforce" />
+    <card number="2" name="Deathgrip" />
+  </zone>
+</cockatrice_deck>ne>
+  <zone name="side">
     <card number="2" price="0" name="Lifeforce" />
     <card number="2" price="0" name="Deathgrip" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

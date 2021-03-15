@@ -3,21 +3,25 @@
   <deckname>Guardian of the Tusk</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="12" price="0" name="Forest" />
-    <card number="12" price="0" name="Plains" />
-    <card number="4" price="0" name="Birds of Paradise" />
-    <card number="4" price="0" name="Giant Growth" />
-    <card number="4" price="0" name="Holy Strength" />
-    <card number="2" price="0" name="Desert Twister" />
-    <card number="4" price="0" name="War Mammoth" />
-    <card number="3" price="0" name="Savannah Lions" />
-    <card number="2" price="0" name="Elder Land Wurm" />
-    <card number="3" price="0" name="Tundra Wolves" />
-    <card number="3" price="0" name="Timber Wolves" />
-    <card number="2" price="0" name="Force of Nature" />
-    <card number="2" price="0" name="Divine Transformation" />
-    <card number="2" price="0" name="Colossus of Sardia" />
+    <card number="12" name="Forest" />
+    <card number="12" name="Plains" />
+    <card number="4" name="Birds of Paradise" />
+    <card number="4" name="Giant Growth" />
+    <card number="4" name="Holy Strength" />
+    <card number="2" name="Desert Twister" />
+    <card number="4" name="War Mammoth" />
+    <card number="3" name="Savannah Lions" />
+    <card number="2" name="Elder Land Wurm" />
+    <card number="3" name="Tundra Wolves" />
+    <card number="3" name="Timber Wolves" />
+    <card number="2" name="Force of Nature" />
+    <card number="2" name="Divine Transformation" />
+    <card number="2" name="Colossus of Sardia" />
+    <card number="1" name="Berserk" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck>er="2" price="0" name="Colossus of Sardia" />
     <card number="1" price="0" name="Berserk" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

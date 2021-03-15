@@ -3,20 +3,24 @@
   <deckname>High Priest</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Plains" />
-    <card number="4" price="0" name="Armageddon" />
-    <card number="3" price="0" name="Dingus Egg" />
-    <card number="4" price="0" name="Healing Salve" />
-    <card number="4" price="0" name="Mesa Pegasus" />
-    <card number="4" price="0" name="Savannah Lions" />
-    <card number="2" price="0" name="Fellwar Stone" />
-    <card number="2" price="0" name="Holy Strength" />
-    <card number="1" price="0" name="Balance" />
-    <card number="2" price="0" name="White Mana Battery" />
-    <card number="4" price="0" name="White Knight" />
-    <card number="4" price="0" name="Tundra Wolves" />
-    <card number="2" price="0" name="Disenchant" />
+    <card number="22" name="Plains" />
+    <card number="4" name="Armageddon" />
+    <card number="3" name="Dingus Egg" />
+    <card number="4" name="Healing Salve" />
+    <card number="4" name="Mesa Pegasus" />
+    <card number="4" name="Savannah Lions" />
+    <card number="2" name="Fellwar Stone" />
+    <card number="2" name="Holy Strength" />
+    <card number="1" name="Balance" />
+    <card number="2" name="White Mana Battery" />
+    <card number="4" name="White Knight" />
+    <card number="4" name="Tundra Wolves" />
+    <card number="2" name="Disenchant" />
+    <card number="3" name="Righteousness" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck>rice="0" name="Disenchant" />
     <card number="3" price="0" name="Righteousness" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

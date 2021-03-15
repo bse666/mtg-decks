@@ -3,26 +3,32 @@
   <deckname>Elementalist</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="12" price="0" name="Mountain" />
-    <card number="12" price="0" name="Island" />
-    <card number="2" price="0" name="Gem Bazaar" />
-    <card number="2" price="0" name="Mana Vault" />
-    <card number="3" price="0" name="Air Elemental" />
-    <card number="3" price="0" name="Earth Elemental" />
-    <card number="3" price="0" name="Fire Elemental" />
-    <card number="3" price="0" name="Water Elemental" />
-    <card number="1" price="0" name="Wall of Air" />
-    <card number="1" price="0" name="Wall of Water" />
-    <card number="1" price="0" name="Wall of Fire" />
-    <card number="1" price="0" name="Wall of Stone" />
-    <card number="3" price="0" name="Earthquake" />
-    <card number="3" price="0" name="Fireball" />
-    <card number="4" price="0" name="Drain Power" />
-    <card number="2" price="0" name="Lightning Bolt" />
-    <card number="2" price="0" name="Unstable Mutation" />
+    <card number="12" name="Mountain" />
+    <card number="12" name="Island" />
+    <card number="2" name="Gem Bazaar" />
+    <card number="2" name="Mana Vault" />
+    <card number="3" name="Air Elemental" />
+    <card number="3" name="Earth Elemental" />
+    <card number="3" name="Fire Elemental" />
+    <card number="3" name="Water Elemental" />
+    <card number="1" name="Wall of Air" />
+    <card number="1" name="Wall of Water" />
+    <card number="1" name="Wall of Fire" />
+    <card number="1" name="Wall of Stone" />
+    <card number="3" name="Earthquake" />
+    <card number="3" name="Fireball" />
+    <card number="4" name="Drain Power" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="2" name="Unstable Mutation" />
+    <card number="2" name="Energy Flux" />
+  </zone>
+  <zone name="side">
+    <card number="3" name="Red Elemental Blast" />
+  </zone>
+</cockatrice_deck>tation" />
     <card number="2" price="0" name="Energy Flux" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
     <card number="3" price="0" name="Red Elemental Blast" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

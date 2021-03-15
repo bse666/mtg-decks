@@ -3,23 +3,27 @@
   <deckname>Great Druid</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Forest" />
-    <card number="3" price="0" name="Llanowar Elves" />
-    <card number="3" price="0" name="Gaea's Liege" />
-    <card number="3" price="0" name="Birds of Paradise" />
-    <card number="4" price="0" name="Aspect of Wolf" />
-    <card number="3" price="0" name="Instill Energy" />
-    <card number="2" price="0" name="Living Lands" />
-    <card number="3" price="0" name="Stream of Life" />
-    <card number="3" price="0" name="Untamed Wilds" />
-    <card number="4" price="0" name="Killer Bees" />
-    <card number="3" price="0" name="Jayemdae Tome" />
-    <card number="2" price="0" name="Living Artifact" />
-    <card number="2" price="0" name="Verduran Enchantress" />
-    <card number="3" price="0" name="Desert Twister" />
+    <card number="22" name="Forest" />
+    <card number="3" name="Llanowar Elves" />
+    <card number="3" name="Gaea's Liege" />
+    <card number="3" name="Birds of Paradise" />
+    <card number="4" name="Aspect of Wolf" />
+    <card number="3" name="Instill Energy" />
+    <card number="2" name="Living Lands" />
+    <card number="3" name="Stream of Life" />
+    <card number="3" name="Untamed Wilds" />
+    <card number="4" name="Killer Bees" />
+    <card number="3" name="Jayemdae Tome" />
+    <card number="2" name="Living Artifact" />
+    <card number="2" name="Verduran Enchantress" />
+    <card number="3" name="Desert Twister" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Lifeforce" />
+    <card number="2" name="Shanodin Dryads" />
+  </zone>
+</cockatrice_deck> <zone name="side">
     <card number="2" price="0" name="Lifeforce" />
     <card number="2" price="0" name="Shanodin Dryads" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

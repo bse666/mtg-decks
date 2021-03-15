@@ -3,21 +3,26 @@
   <deckname>Crag Hydra</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Mountain" />
-    <card number="4" price="0" name="Manaflare" />
-    <card number="4" price="0" name="Power Surge" />
-    <card number="4" price="0" name="Fireball" />
-    <card number="2" price="0" name="Lightning Bolt" />
-    <card number="4" price="0" name="Inferno" />
-    <card number="4" price="0" name="Onulet" />
-    <card number="4" price="0" name="Wall of Fire" />
-    <card number="4" price="0" name="Disintegrate" />
-    <card number="1" price="0" name="Detonate" />
-    <card number="2" price="0" name="Soul Net" />
-    <card number="2" price="0" name="Shivan Dragon" />
-    <card number="3" price="0" name="The Hive" />
+    <card number="22" name="Mountain" />
+    <card number="4" name="Manaflare" />
+    <card number="4" name="Power Surge" />
+    <card number="4" name="Fireball" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="4" name="Inferno" />
+    <card number="4" name="Onulet" />
+    <card number="4" name="Wall of Fire" />
+    <card number="4" name="Disintegrate" />
+    <card number="1" name="Detonate" />
+    <card number="2" name="Soul Net" />
+    <card number="2" name="Shivan Dragon" />
+    <card number="3" name="The Hive" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Red Elemental Blast" />
+  </zone>
+</cockatrice_deck>="The Hive" />
+  </zone>
+  <zone name="side">
     <card number="1" price="0" name="Red Elemental Blast" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

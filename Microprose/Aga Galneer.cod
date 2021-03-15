@@ -3,27 +3,32 @@
   <deckname>Aga Galneer</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="8" price="0" name="Swamp" />
-    <card number="6" price="0" name="Forest" />
-    <card number="8" price="0" name="Plains" />
-    <card number="1" price="0" name="Sol Ring" />
-    <card number="2" price="0" name="Gem Bazaar" />
-    <card number="2" price="0" name="Erg Raiders" />
-    <card number="2" price="0" name="El-Hajjaj" />
-    <card number="2" price="0" name="Healing Salve" />
-    <card number="2" price="0" name="Stream of Life" />
-    <card number="3" price="0" name="Onulet" />
-    <card number="2" price="0" name="Greed" />
-    <card number="2" price="0" name="Ashes to Ashes" />
-    <card number="2" price="0" name="Jade Monolith" />
-    <card number="3" price="0" name="Spirit Link" />
-    <card number="2" price="0" name="Serra Angel" />
-    <card number="2" price="0" name="Sengir Vampire" />
-    <card number="2" price="0" name="Giant Growth" />
-    <card number="2" price="0" name="Giant Spider" />
-    <card number="2" price="0" name="Fungusaur" />
+    <card number="8" name="Swamp" />
+    <card number="6" name="Forest" />
+    <card number="8" name="Plains" />
+    <card number="1" name="Sol Ring" />
+    <card number="2" name="Gem Bazaar" />
+    <card number="2" name="Erg Raiders" />
+    <card number="2" name="El-Hajjaj" />
+    <card number="2" name="Healing Salve" />
+    <card number="2" name="Stream of Life" />
+    <card number="3" name="Onulet" />
+    <card number="2" name="Greed" />
+    <card number="2" name="Ashes to Ashes" />
+    <card number="2" name="Jade Monolith" />
+    <card number="3" name="Spirit Link" />
+    <card number="2" name="Serra Angel" />
+    <card number="2" name="Sengir Vampire" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Fungusaur" />
+    <card number="2" name="Savannah Lions" />
+    <card number="2" name="Hurricane" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck><card number="2" price="0" name="Fungusaur" />
     <card number="2" price="0" name="Savannah Lions" />
     <card number="2" price="0" name="Hurricane" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

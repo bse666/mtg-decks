@@ -3,24 +3,28 @@
   <deckname>Paladin</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="18" price="0" name="Plains" />
-    <card number="6" price="0" name="Island" />
-    <card number="4" price="0" name="Northern Paladin" />
-    <card number="4" price="0" name="White Knight" />
-    <card number="2" price="0" name="Benalish Hero" />
-    <card number="4" price="0" name="Holy Strength" />
-    <card number="1" price="0" name="Disenchant" />
-    <card number="2" price="0" name="Red Ward" />
-    <card number="4" price="0" name="Angry Mob" />
-    <card number="4" price="0" name="Sleight of Mind" />
-    <card number="3" price="0" name="Magical Hack" />
-    <card number="3" price="0" name="Karma" />
-    <card number="2" price="0" name="Circle of Protection Black" />
-    <card number="1" price="0" name="Swords to Plowshares" />
-    <card number="2" price="0" name="Segovian Leviathan" />
+    <card number="18" name="Plains" />
+    <card number="6" name="Island" />
+    <card number="4" name="Northern Paladin" />
+    <card number="4" name="White Knight" />
+    <card number="2" name="Benalish Hero" />
+    <card number="4" name="Holy Strength" />
+    <card number="1" name="Disenchant" />
+    <card number="2" name="Red Ward" />
+    <card number="4" name="Angry Mob" />
+    <card number="4" name="Sleight of Mind" />
+    <card number="3" name="Magical Hack" />
+    <card number="3" name="Karma" />
+    <card number="2" name="Circle of Protection Black" />
+    <card number="1" name="Swords to Plowshares" />
+    <card number="2" name="Segovian Leviathan" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Swords to Plowshares" />
+    <card number="2" name="Divine Transformation" />
+  </zone>
+</cockatrice_deck>name="side">
     <card number="1" price="0" name="Swords to Plowshares" />
     <card number="2" price="0" name="Divine Transformation" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

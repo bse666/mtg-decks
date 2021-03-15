@@ -3,20 +3,25 @@
   <deckname>Sorcerer</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="20" price="0" name="Mountain" />
-    <card number="4" price="0" name="Manabarbs" />
-    <card number="4" price="0" name="Goblin Balloon Brigade" />
-    <card number="3" price="0" name="Brass Man" />
-    <card number="4" price="0" name="Mons Goblin Raiders" />
-    <card number="3" price="0" name="Ali Baba" />
-    <card number="3" price="0" name="Hurr Jackal" />
-    <card number="4" price="0" name="Sisters of the Flame" />
-    <card number="4" price="0" name="Winds of Change" />
-    <card number="4" price="0" name="Lightning Bolt" />
-    <card number="4" price="0" name="Giant Strength" />
-    <card number="3" price="0" name="Immolation" />
+    <card number="20" name="Mountain" />
+    <card number="4" name="Manabarbs" />
+    <card number="4" name="Goblin Balloon Brigade" />
+    <card number="3" name="Brass Man" />
+    <card number="4" name="Mons Goblin Raiders" />
+    <card number="3" name="Ali Baba" />
+    <card number="3" name="Hurr Jackal" />
+    <card number="4" name="Sisters of the Flame" />
+    <card number="4" name="Winds of Change" />
+    <card number="4" name="Lightning Bolt" />
+    <card number="4" name="Giant Strength" />
+    <card number="3" name="Immolation" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Burrowing" />
+  </zone>
+</cockatrice_deck>Immolation" />
+  </zone>
+  <zone name="side">
     <card number="2" price="0" name="Burrowing" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

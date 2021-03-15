@@ -3,22 +3,26 @@
   <deckname>Cleric</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="21" price="0" name="Plains" />
-    <card number="4" price="0" name="Swords to Plowshares" />
-    <card number="3" price="0" name="Disenchant" />
-    <card number="4" price="0" name="Holy Strength" />
-    <card number="3" price="0" name="Holy Armor" />
-    <card number="3" price="0" name="Meekstone" />
-    <card number="4" price="0" name="Benalish Hero" />
-    <card number="4" price="0" name="Mesa Pegasus" />
-    <card number="2" price="0" name="Samite Healer" />
-    <card number="2" price="0" name="Savannah Lions" />
-    <card number="4" price="0" name="Amrou Kithkin" />
-    <card number="2" price="0" name="Pikemen" />
-    <card number="4" price="0" name="Tawnos' Weaponry" />
+    <card number="21" name="Plains" />
+    <card number="4" name="Swords to Plowshares" />
+    <card number="3" name="Disenchant" />
+    <card number="4" name="Holy Strength" />
+    <card number="3" name="Holy Armor" />
+    <card number="3" name="Meekstone" />
+    <card number="4" name="Benalish Hero" />
+    <card number="4" name="Mesa Pegasus" />
+    <card number="2" name="Samite Healer" />
+    <card number="2" name="Savannah Lions" />
+    <card number="4" name="Amrou Kithkin" />
+    <card number="2" name="Pikemen" />
+    <card number="4" name="Tawnos' Weaponry" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Karma" />
+    <card number="1" name="Conversion" />
+  </zone>
+</cockatrice_deck><zone name="side">
     <card number="1" price="0" name="Karma" />
     <card number="1" price="0" name="Conversion" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

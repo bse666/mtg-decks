@@ -3,26 +3,30 @@
   <deckname>Conjurer</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Island" />
-    <card number="2" price="0" name="Fellwar Stone" />
-    <card number="4" price="0" name="Prodigal Sorcerer" />
-    <card number="4" price="0" name="Pirate Ship" />
-    <card number="2" price="0" name="Wall of Water" />
-    <card number="2" price="0" name="Wall of Air" />
-    <card number="2" price="0" name="Counterspell" />
-    <card number="2" price="0" name="Steal Artifact" />
-    <card number="2" price="0" name="Animate Artifact" />
-    <card number="2" price="0" name="Unsummon" />
-    <card number="4" price="0" name="Rod of Ruin" />
-    <card number="2" price="0" name="Aladdin's Ring" />
-    <card number="4" price="0" name="Apprentice Wizard" />
-    <card number="3" price="0" name="Jayemdae Tome" />
-    <card number="3" price="0" name="Giant Tortoise" />
+    <card number="22" name="Island" />
+    <card number="2" name="Fellwar Stone" />
+    <card number="4" name="Prodigal Sorcerer" />
+    <card number="4" name="Pirate Ship" />
+    <card number="2" name="Wall of Water" />
+    <card number="2" name="Wall of Air" />
+    <card number="2" name="Counterspell" />
+    <card number="2" name="Steal Artifact" />
+    <card number="2" name="Animate Artifact" />
+    <card number="2" name="Unsummon" />
+    <card number="4" name="Rod of Ruin" />
+    <card number="2" name="Aladdin's Ring" />
+    <card number="4" name="Apprentice Wizard" />
+    <card number="3" name="Jayemdae Tome" />
+    <card number="3" name="Giant Tortoise" />
   </zone>
-  <zone name="sideboard">
-    <card number="1" price="0" name="Mahamoti Djinn" />
-    <card number="1" price="0" name="Island Fish Jasconius" />
+  <zone name="side">
+    <card number="1" name="Mahamoti Djinn" />
+    <card number="1" name="Island Fish Jasconius" />
+    <card number="1" name="Blue Elemental Blast" />
+    <card number="1" name="Volcanic Eruption" />
+  </zone>
+</cockatrice_deck>="0" name="Island Fish Jasconius" />
     <card number="1" price="0" name="Blue Elemental Blast" />
     <card number="1" price="0" name="Volcanic Eruption" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

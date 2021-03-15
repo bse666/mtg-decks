@@ -3,23 +3,28 @@
   <deckname>Fungus Master</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="11" price="0" name="Forest" />
-    <card number="11" price="0" name="Island" />
-    <card number="4" price="0" name="Prodigal Sorcerer" />
-    <card number="4" price="0" name="Fungusaur" />
-    <card number="3" price="0" name="Ironroot Treefolk" />
-    <card number="2" price="0" name="Wall of Brambles" />
-    <card number="4" price="0" name="Rod of Ruin" />
-    <card number="2" price="0" name="Carnivorous Plant" />
-    <card number="2" price="0" name="Untamed Wilds" />
-    <card number="2" price="0" name="Wild Growth" />
-    <card number="2" price="0" name="Wall of Wood" />
-    <card number="2" price="0" name="Oasis" />
-    <card number="4" price="0" name="Regeneration" />
-    <card number="4" price="0" name="Unsummon" />
-    <card number="3" price="0" name="Power Sink" />
+    <card number="11" name="Forest" />
+    <card number="11" name="Island" />
+    <card number="4" name="Prodigal Sorcerer" />
+    <card number="4" name="Fungusaur" />
+    <card number="3" name="Ironroot Treefolk" />
+    <card number="2" name="Wall of Brambles" />
+    <card number="4" name="Rod of Ruin" />
+    <card number="2" name="Carnivorous Plant" />
+    <card number="2" name="Untamed Wilds" />
+    <card number="2" name="Wild Growth" />
+    <card number="2" name="Wall of Wood" />
+    <card number="2" name="Oasis" />
+    <card number="4" name="Regeneration" />
+    <card number="4" name="Unsummon" />
+    <card number="3" name="Power Sink" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Kormus Bell" />
+  </zone>
+</cockatrice_deck> number="3" price="0" name="Power Sink" />
+  </zone>
+  <zone name="side">
     <card number="2" price="0" name="Kormus Bell" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

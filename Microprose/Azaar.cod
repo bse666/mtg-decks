@@ -3,23 +3,28 @@
   <deckname>Azaar</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Swamp" />
-    <card number="4" price="0" name="Dark Ritual" />
-    <card number="1" price="0" name="Sol Ring" />
-    <card number="1" price="0" name="Mox Jet" />
-    <card number="1" price="0" name="Black Lotus" />
-    <card number="1" price="0" name="Black Vise" />
-    <card number="1" price="0" name="Mind Twist" />
-    <card number="4" price="0" name="Drain Life" />
-    <card number="4" price="0" name="Hypnotic Specter" />
-    <card number="4" price="0" name="Sengir Vampire" />
-    <card number="3" price="0" name="Tetravus" />
-    <card number="2" price="0" name="Lord of the Pit" />
-    <card number="2" price="0" name="Greed" />
-    <card number="3" price="0" name="Will-O-The-Wisp" />
-    <card number="1" price="0" name="Gloom" />
-    <card number="3" price="0" name="Bog Imp" />
-    <card number="4" price="0" name="Howl from Beyond" />
+    <card number="22" name="Swamp" />
+    <card number="4" name="Dark Ritual" />
+    <card number="1" name="Sol Ring" />
+    <card number="1" name="Mox Jet" />
+    <card number="1" name="Black Lotus" />
+    <card number="1" name="Black Vise" />
+    <card number="1" name="Mind Twist" />
+    <card number="4" name="Drain Life" />
+    <card number="4" name="Hypnotic Specter" />
+    <card number="4" name="Sengir Vampire" />
+    <card number="3" name="Tetravus" />
+    <card number="2" name="Lord of the Pit" />
+    <card number="2" name="Greed" />
+    <card number="3" name="Will-O-The-Wisp" />
+    <card number="1" name="Gloom" />
+    <card number="3" name="Bog Imp" />
+    <card number="4" name="Howl from Beyond" />
   </zone>
-  <zone name="sideboard" />
+  <zone name="side" />
+</cockatrice_deck>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swamp"/>
+    </zone>
 </cockatrice_deck>

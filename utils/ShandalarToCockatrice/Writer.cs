@@ -24,7 +24,7 @@ namespace ShandalarToCockatrice
                     new XElement("zone", new XAttribute("name", "main"),
                         deck.Cards.Select(ToElement)
                     ),
-                    new XElement("zone", new XAttribute("name", "sideboard"),
+                    new XElement("zone", new XAttribute("name", "side"),
                         deck.Sideboard.Select(ToElement)
                     )
                 })
@@ -34,7 +34,6 @@ namespace ShandalarToCockatrice
         static XElement ToElement(this DeckItem item) =>
             new XElement("card",
                 new XAttribute("number", item.Count),
-                new XAttribute("price", "0"),
                 new XAttribute("name", item.Name)
             );
     }

@@ -3,22 +3,27 @@
   <deckname>Nether Fiend</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="20" price="0" name="Swamp" />
-    <card number="2" price="0" name="Soul Net" />
-    <card number="4" price="0" name="The Hive" />
-    <card number="4" price="0" name="Animate Dead" />
-    <card number="4" price="0" name="Nether Shadow" />
-    <card number="4" price="0" name="Lord of the Pit" />
-    <card number="3" price="0" name="Erg Raiders" />
-    <card number="4" price="0" name="Black Knight" />
-    <card number="2" price="0" name="Frozen Shade" />
-    <card number="4" price="0" name="Mishra's Factory" />
-    <card number="2" price="0" name="Junun Efreet" />
-    <card number="2" price="0" name="Kormus Bell" />
-    <card number="3" price="0" name="Xenic Poltergeist" />
-    <card number="3" price="0" name="Terror" />
+    <card number="20" name="Swamp" />
+    <card number="2" name="Soul Net" />
+    <card number="4" name="The Hive" />
+    <card number="4" name="Animate Dead" />
+    <card number="4" name="Nether Shadow" />
+    <card number="4" name="Lord of the Pit" />
+    <card number="3" name="Erg Raiders" />
+    <card number="4" name="Black Knight" />
+    <card number="2" name="Frozen Shade" />
+    <card number="4" name="Mishra's Factory" />
+    <card number="2" name="Junun Efreet" />
+    <card number="2" name="Kormus Bell" />
+    <card number="3" name="Xenic Poltergeist" />
+    <card number="3" name="Terror" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="3" name="Bog Imp" />
+  </zone>
+</cockatrice_deck>umber="3" price="0" name="Terror" />
+  </zone>
+  <zone name="side">
     <card number="3" price="0" name="Bog Imp" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

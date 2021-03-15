@@ -3,23 +3,27 @@
   <deckname>Thought Invoker</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Island" />
-    <card number="4" price="0" name="Giant Tortoise" />
-    <card number="4" price="0" name="Psychic Venom" />
-    <card number="3" price="0" name="Mana Short" />
-    <card number="3" price="0" name="Drain Power" />
-    <card number="2" price="0" name="Control Magic" />
-    <card number="3" price="0" name="Power Sink" />
-    <card number="3" price="0" name="Power Leak" />
-    <card number="4" price="0" name="Ghost Ship" />
-    <card number="2" price="0" name="Energy Flux" />
-    <card number="4" price="0" name="Phantom Monster" />
-    <card number="2" price="0" name="Time Elemental" />
-    <card number="1" price="0" name="Mahamoti Djinn" />
-    <card number="3" price="0" name="Twiddle" />
+    <card number="22" name="Island" />
+    <card number="4" name="Giant Tortoise" />
+    <card number="4" name="Psychic Venom" />
+    <card number="3" name="Mana Short" />
+    <card number="3" name="Drain Power" />
+    <card number="2" name="Control Magic" />
+    <card number="3" name="Power Sink" />
+    <card number="3" name="Power Leak" />
+    <card number="4" name="Ghost Ship" />
+    <card number="2" name="Energy Flux" />
+    <card number="4" name="Phantom Monster" />
+    <card number="2" name="Time Elemental" />
+    <card number="1" name="Mahamoti Djinn" />
+    <card number="3" name="Twiddle" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Lifetap" />
+    <card number="1" name="Volcanic Eruption" />
+  </zone>
+</cockatrice_deck> <zone name="side">
     <card number="1" price="0" name="Lifetap" />
     <card number="1" price="0" name="Volcanic Eruption" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

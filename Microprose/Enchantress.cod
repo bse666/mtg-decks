@@ -3,27 +3,32 @@
   <deckname>Enchantress</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="22" price="0" name="Forest" />
-    <card number="4" price="0" name="Llanowar Elves" />
-    <card number="3" price="0" name="Verduran Enchantress" />
-    <card number="3" price="0" name="Cockatrice" />
-    <card number="3" price="0" name="Thicket Basilisk" />
-    <card number="2" price="0" name="Durkwood Boars" />
-    <card number="1" price="0" name="Ivory Tower" />
-    <card number="3" price="0" name="Lure" />
-    <card number="2" price="0" name="Web" />
-    <card number="3" price="0" name="Regeneration" />
-    <card number="3" price="0" name="Living Artifact" />
-    <card number="4" price="0" name="Aspect of Wolf" />
-    <card number="2" price="0" name="Wild Growth" />
-    <card number="2" price="0" name="Coral Helm" />
-    <card number="2" price="0" name="Instill Energy" />
-    <card number="2" price="0" name="Desert Twister" />
-    <card number="1" price="0" name="Library of Leng" />
+    <card number="22" name="Forest" />
+    <card number="4" name="Llanowar Elves" />
+    <card number="3" name="Verduran Enchantress" />
+    <card number="3" name="Cockatrice" />
+    <card number="3" name="Thicket Basilisk" />
+    <card number="2" name="Durkwood Boars" />
+    <card number="1" name="Ivory Tower" />
+    <card number="3" name="Lure" />
+    <card number="2" name="Web" />
+    <card number="3" name="Regeneration" />
+    <card number="3" name="Living Artifact" />
+    <card number="4" name="Aspect of Wolf" />
+    <card number="2" name="Wild Growth" />
+    <card number="2" name="Coral Helm" />
+    <card number="2" name="Instill Energy" />
+    <card number="2" name="Desert Twister" />
+    <card number="1" name="Library of Leng" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="2" name="Kormus Bell" />
+    <card number="2" name="Living Lands" />
+    <card number="2" name="Primal Clay" />
+  </zone>
+</cockatrice_deck>side">
     <card number="2" price="0" name="Kormus Bell" />
     <card number="2" price="0" name="Living Lands" />
     <card number="2" price="0" name="Primal Clay" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

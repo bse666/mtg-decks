@@ -3,37 +3,45 @@
   <deckname>Dracur</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="5" price="0" name="Mountain" />
-    <card number="5" price="0" name="Swamp" />
-    <card number="5" price="0" name="Forest" />
-    <card number="3" price="0" name="Gem Bazaar" />
-    <card number="1" price="0" name="Mox Emerald" />
-    <card number="1" price="0" name="Mox Jet" />
-    <card number="1" price="0" name="Mox Ruby" />
-    <card number="1" price="0" name="Black Lotus" />
-    <card number="2" price="0" name="Strip Mine" />
-    <card number="2" price="0" name="Fellwar Stone" />
-    <card number="4" price="0" name="Stone Rain" />
-    <card number="2" price="0" name="Dingus Egg" />
-    <card number="2" price="0" name="Fireball" />
-    <card number="2" price="0" name="Disintegrate" />
-    <card number="2" price="0" name="Lightning Bolt" />
-    <card number="2" price="0" name="Manaflare" />
-    <card number="2" price="0" name="Blight" />
-    <card number="2" price="0" name="Desert Twister" />
-    <card number="3" price="0" name="Fissure" />
-    <card number="1" price="0" name="Mind Twist" />
-    <card number="2" price="0" name="Ragman" />
-    <card number="4" price="0" name="Hypnotic Specter" />
-    <card number="2" price="0" name="Disrupting Scepter" />
-    <card number="3" price="0" name="Wall of Dust" />
-    <card number="1" price="0" name="Tranquility" />
-    <card number="2" price="0" name="Earthquake" />
+    <card number="5" name="Mountain" />
+    <card number="5" name="Swamp" />
+    <card number="5" name="Forest" />
+    <card number="3" name="Gem Bazaar" />
+    <card number="1" name="Mox Emerald" />
+    <card number="1" name="Mox Jet" />
+    <card number="1" name="Mox Ruby" />
+    <card number="1" name="Black Lotus" />
+    <card number="2" name="Strip Mine" />
+    <card number="2" name="Fellwar Stone" />
+    <card number="4" name="Stone Rain" />
+    <card number="2" name="Dingus Egg" />
+    <card number="2" name="Fireball" />
+    <card number="2" name="Disintegrate" />
+    <card number="2" name="Lightning Bolt" />
+    <card number="2" name="Manaflare" />
+    <card number="2" name="Blight" />
+    <card number="2" name="Desert Twister" />
+    <card number="3" name="Fissure" />
+    <card number="1" name="Mind Twist" />
+    <card number="2" name="Ragman" />
+    <card number="4" name="Hypnotic Specter" />
+    <card number="2" name="Disrupting Scepter" />
+    <card number="3" name="Wall of Dust" />
+    <card number="1" name="Tranquility" />
+    <card number="2" name="Earthquake" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Tranquility" />
+    <card number="1" name="Tsunami" />
+    <card number="2" name="Stream of Life" />
+    <card number="1" name="Gloom" />
+  </zone>
+</cockatrice_deck>ce="0" name="Earthquake" />
+  </zone>
+  <zone name="side">
     <card number="1" price="0" name="Tranquility" />
     <card number="1" price="0" name="Tsunami" />
     <card number="2" price="0" name="Stream of Life" />
     <card number="1" price="0" name="Gloom" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

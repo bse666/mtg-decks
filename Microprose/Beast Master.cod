@@ -3,23 +3,28 @@
   <deckname>Beast Master</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="21" price="0" name="Forest" />
-    <card number="2" price="0" name="Birds of Paradise" />
-    <card number="4" price="0" name="Timber Wolves" />
-    <card number="4" price="0" name="Naf's Asp" />
-    <card number="4" price="0" name="Grizzly Bears" />
-    <card number="3" price="0" name="Stream of Life" />
-    <card number="4" price="0" name="Aspect of Wolf" />
-    <card number="4" price="0" name="Aswan Jaguar" />
-    <card number="2" price="0" name="Durkwood Boars" />
-    <card number="4" price="0" name="Giant Growth" />
-    <card number="2" price="0" name="Web" />
-    <card number="2" price="0" name="Untamed Wilds" />
-    <card number="2" price="0" name="Giant Spider" />
-    <card number="2" price="0" name="Desert Twister" />
+    <card number="21" name="Forest" />
+    <card number="2" name="Birds of Paradise" />
+    <card number="4" name="Timber Wolves" />
+    <card number="4" name="Naf's Asp" />
+    <card number="4" name="Grizzly Bears" />
+    <card number="3" name="Stream of Life" />
+    <card number="4" name="Aspect of Wolf" />
+    <card number="4" name="Aswan Jaguar" />
+    <card number="2" name="Durkwood Boars" />
+    <card number="4" name="Giant Growth" />
+    <card number="2" name="Web" />
+    <card number="2" name="Untamed Wilds" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Desert Twister" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Tsunami" />
+    <card number="1" name="Tranquility" />
+  </zone>
+</cockatrice_deck>ne>
+  <zone name="side">
     <card number="1" price="0" name="Tsunami" />
     <card number="1" price="0" name="Tranquility" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

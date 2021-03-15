@@ -3,30 +3,36 @@
   <deckname>Whim</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="7" price="0" name="Island" />
-    <card number="6" price="0" name="Plains" />
-    <card number="6" price="0" name="Swamp" />
-    <card number="1" price="0" name="Mox Jet" />
-    <card number="1" price="0" name="Mox Pearl" />
-    <card number="1" price="0" name="Mox Sapphire" />
-    <card number="1" price="0" name="Black Lotus" />
-    <card number="4" price="0" name="Psychic Venom" />
-    <card number="2" price="0" name="Drain Power" />
-    <card number="2" price="0" name="Twiddle" />
-    <card number="4" price="0" name="Power Sink" />
-    <card number="4" price="0" name="Royal Assassin" />
-    <card number="2" price="0" name="Siren's Call" />
-    <card number="2" price="0" name="Word of Binding" />
-    <card number="2" price="0" name="Meekstone" />
-    <card number="4" price="0" name="Yotian Soldiers" />
-    <card number="2" price="0" name="Serra Angel" />
-    <card number="2" price="0" name="Shapeshifter" />
-    <card number="1" price="0" name="Alabaster Potion" />
-    <card number="2" price="0" name="Colossus of Sardia" />
-    <card number="2" price="0" name="Carrion Ants" />
+    <card number="7" name="Island" />
+    <card number="6" name="Plains" />
+    <card number="6" name="Swamp" />
+    <card number="1" name="Mox Jet" />
+    <card number="1" name="Mox Pearl" />
+    <card number="1" name="Mox Sapphire" />
+    <card number="1" name="Black Lotus" />
+    <card number="4" name="Psychic Venom" />
+    <card number="2" name="Drain Power" />
+    <card number="2" name="Twiddle" />
+    <card number="4" name="Power Sink" />
+    <card number="4" name="Royal Assassin" />
+    <card number="2" name="Siren's Call" />
+    <card number="2" name="Word of Binding" />
+    <card number="2" name="Meekstone" />
+    <card number="4" name="Yotian Soldiers" />
+    <card number="2" name="Serra Angel" />
+    <card number="2" name="Shapeshifter" />
+    <card number="1" name="Alabaster Potion" />
+    <card number="2" name="Colossus of Sardia" />
+    <card number="2" name="Carrion Ants" />
+    <card number="2" name="Kismet" />
+    <card number="1" name="Kormus Bell" />
+    <card number="1" name="Whimsy" />
+  </zone>
+  <zone name="side" />
+</cockatrice_deck> price="0" name="Carrion Ants" />
     <card number="2" price="0" name="Kismet" />
     <card number="1" price="0" name="Kormus Bell" />
     <card number="1" price="0" name="Whimsy" />
   </zone>
-  <zone name="sideboard" />
-</cockatrice_deck>
+  <zone name="side" />
+</cockatrice_deck>deck>

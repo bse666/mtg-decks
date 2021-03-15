@@ -3,27 +3,33 @@
   <deckname>Winged Stallion</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="12" price="0" name="Plains" />
-    <card number="12" price="0" name="Island" />
-    <card number="3" price="0" name="Howling Mine" />
-    <card number="3" price="0" name="Island Sanctuary" />
-    <card number="4" price="0" name="Mesa Pegasus" />
-    <card number="2" price="0" name="Phantasmal Forces" />
-    <card number="2" price="0" name="Serra Angel" />
-    <card number="2" price="0" name="Dancing Scimitar" />
-    <card number="4" price="0" name="Magical Hack" />
-    <card number="2" price="0" name="Karma" />
-    <card number="2" price="0" name="Lifetap" />
-    <card number="4" price="0" name="Psionic Entity" />
-    <card number="3" price="0" name="Holy Armor" />
-    <card number="3" price="0" name="Holy Strength" />
-    <card number="2" price="0" name="Segovian Leviathan" />
-    <card number="1" price="0" name="Disenchant" />
-    <card number="1" price="0" name="Conversion" />
-    <card number="2" price="0" name="Counterspell" />
+    <card number="12" name="Plains" />
+    <card number="12" name="Island" />
+    <card number="3" name="Howling Mine" />
+    <card number="3" name="Island Sanctuary" />
+    <card number="4" name="Mesa Pegasus" />
+    <card number="2" name="Phantasmal Forces" />
+    <card number="2" name="Serra Angel" />
+    <card number="2" name="Dancing Scimitar" />
+    <card number="4" name="Magical Hack" />
+    <card number="2" name="Karma" />
+    <card number="2" name="Lifetap" />
+    <card number="4" name="Psionic Entity" />
+    <card number="3" name="Holy Armor" />
+    <card number="3" name="Holy Strength" />
+    <card number="2" name="Segovian Leviathan" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Conversion" />
+    <card number="2" name="Counterspell" />
   </zone>
-  <zone name="sideboard">
+  <zone name="side">
+    <card number="1" name="Counterspell" />
+    <card number="1" name="Conversion" />
+  </zone>
+</cockatrice_deck>e="0" name="Counterspell" />
+  </zone>
+  <zone name="side">
     <card number="1" price="0" name="Counterspell" />
     <card number="1" price="0" name="Conversion" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>

@@ -3,52 +3,63 @@
   <deckname>Queltosh</deckname>
   <comments></comments>
   <zone name="main">
-    <card number="8" price="0" name="Island" />
-    <card number="8" price="0" name="Plains" />
-    <card number="8" price="0" name="Mountain" />
-    <card number="1" price="0" name="Eye for an Eye" />
-    <card number="1" price="0" name="Pikemen" />
-    <card number="1" price="0" name="Mesa Pegasus" />
-    <card number="1" price="0" name="Serra Angel" />
-    <card number="1" price="0" name="Spirit Link" />
-    <card number="1" price="0" name="White Knight" />
-    <card number="1" price="0" name="Ancestral Recall" />
-    <card number="1" price="0" name="Control Magic" />
-    <card number="1" price="0" name="Giant Tortoise" />
-    <card number="1" price="0" name="Mahamoti Djinn" />
-    <card number="1" price="0" name="Prodigal Sorcerer" />
-    <card number="1" price="0" name="Time Elemental" />
-    <card number="1" price="0" name="Unstable Mutation" />
-    <card number="1" price="0" name="Black Vise" />
-    <card number="1" price="0" name="Candelabra of Tawnos" />
-    <card number="1" price="0" name="Clockwork Avian" />
-    <card number="1" price="0" name="Urza's Avenger" />
-    <card number="1" price="0" name="Wall of Dust" />
-    <card number="1" price="0" name="Feedback" />
-    <card number="1" price="0" name="Fireball" />
-    <card number="1" price="0" name="Land Tax" />
-    <card number="1" price="0" name="Lightning Bolt" />
-    <card number="1" price="0" name="Disenchant" />
-    <card number="1" price="0" name="Zephyr Falcon" />
-    <card number="1" price="0" name="Counterspell" />
-    <card number="1" price="0" name="Power Sink" />
-    <card number="1" price="0" name="Spell Blast" />
-    <card number="1" price="0" name="Brass Man" />
-    <card number="1" price="0" name="Wall of Air" />
-    <card number="1" price="0" name="Phantasmal Forces" />
-    <card number="1" price="0" name="Fire Elemental" />
-    <card number="1" price="0" name="Phantom Monster" />
-    <card number="1" price="0" name="The Hive" />
-    <card number="1" price="0" name="Reverse Damage" />
-    <card number="1" price="0" name="Divine Transformation" />
-    <card number="1" price="0" name="Pearled Unicorn" />
+    <card number="8" name="Island" />
+    <card number="8" name="Plains" />
+    <card number="8" name="Mountain" />
+    <card number="1" name="Eye for an Eye" />
+    <card number="1" name="Pikemen" />
+    <card number="1" name="Mesa Pegasus" />
+    <card number="1" name="Serra Angel" />
+    <card number="1" name="Spirit Link" />
+    <card number="1" name="White Knight" />
+    <card number="1" name="Ancestral Recall" />
+    <card number="1" name="Control Magic" />
+    <card number="1" name="Giant Tortoise" />
+    <card number="1" name="Mahamoti Djinn" />
+    <card number="1" name="Prodigal Sorcerer" />
+    <card number="1" name="Time Elemental" />
+    <card number="1" name="Unstable Mutation" />
+    <card number="1" name="Black Vise" />
+    <card number="1" name="Candelabra of Tawnos" />
+    <card number="1" name="Clockwork Avian" />
+    <card number="1" name="Urza's Avenger" />
+    <card number="1" name="Wall of Dust" />
+    <card number="1" name="Feedback" />
+    <card number="1" name="Fireball" />
+    <card number="1" name="Land Tax" />
+    <card number="1" name="Lightning Bolt" />
+    <card number="1" name="Disenchant" />
+    <card number="1" name="Zephyr Falcon" />
+    <card number="1" name="Counterspell" />
+    <card number="1" name="Power Sink" />
+    <card number="1" name="Spell Blast" />
+    <card number="1" name="Brass Man" />
+    <card number="1" name="Wall of Air" />
+    <card number="1" name="Phantasmal Forces" />
+    <card number="1" name="Fire Elemental" />
+    <card number="1" name="Phantom Monster" />
+    <card number="1" name="The Hive" />
+    <card number="1" name="Reverse Damage" />
+    <card number="1" name="Divine Transformation" />
+    <card number="1" name="Pearled Unicorn" />
   </zone>
-  <zone name="sideboard">
-    <card number="1" price="0" name="Angry Mob" />
-    <card number="1" price="0" name="Karma" />
-    <card number="1" price="0" name="Northern Paladin" />
-    <card number="1" price="0" name="Magnetic Mountain" />
-    <card number="1" price="0" name="Red Elemental Blast" />
+  <zone name="side">
+    <card number="1" name="Angry Mob" />
+    <card number="1" name="Karma" />
+    <card number="1" name="Northern Paladin" />
+    <card number="1" name="Magnetic Mountain" />
+    <card number="1" name="Red Elemental Blast" />
+    <card number="1" name="Crystal Rod" />
+    <card number="1" name="Lifetap" />
+    <card number="1" name="Wooden Sphere" />
+    <card number="1" name="Blue Elemental Blast" />
+    <card number="1" name="Burrowing" />
+    <card number="1" name="Circle of Protection Red" />
+    <card number="1" name="Ivory Cup" />
+    <card number="1" name="Flashfires" />
+    <card number="1" name="Disenchant" />
+  </zone>
+</cockatrice_deck>
     <card number="1" price="0" name="Crystal Rod" />
     <card number="1" price="0" name="Lifetap" />
     <card number="1" price="0" name="Wooden Sphere" />
@@ -59,4 +70,4 @@
     <card number="1" price="0" name="Flashfires" />
     <card number="1" price="0" name="Disenchant" />
   </zone>
-</cockatrice_deck>
+</cockatrice_deck>deck>
