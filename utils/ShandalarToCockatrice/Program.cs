@@ -1,6 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 namespace ShandalarToCockatrice
 {
@@ -11,15 +11,27 @@ namespace ShandalarToCockatrice
 
         static void Main()
         {
-            var allFiles = Directory.GetFiles(sourceDir).Take(1);
+            var allIssues = new List<string>();
+
+            var allFiles = Directory.GetFiles(sourceDir);
             foreach (var f in allFiles)
             {
                 Console.WriteLine($"Processing {f}");
+
                 var shandalarDeck = Parser.ParseDeck(f);
+
                 var deck = Mapper.MapDeck(shandalarDeck);
-                Validator.Validate(deck);
+
+                var issues = Validator.Validate(deck);
+                allIssues.AddRange(issues);
+
                 var targetPath = Path.Combine(targetDir, $"{deck.Name}.cod");
                 Writer.WriteDeck(targetPath, deck);
+            }
+
+            foreach (var issue in allIssues)
+            {
+                Console.WriteLine(issue);
             }
 
             Console.WriteLine("Done");

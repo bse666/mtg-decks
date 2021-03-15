@@ -4,6 +4,9 @@
     {
         public string Name;
         public int Count;
+
+        public override string ToString() =>
+            $"{Count} {Name}";
     }
 
     public class Deck
