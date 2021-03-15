@@ -4,7 +4,7 @@
   <comments></comments>
   <zone name="main">
     <card number="22" name="Mountain" />
-    <card number="4" name="Manaflare" />
+    <card number="4" name="Mana Flare" />
     <card number="4" name="Power Surge" />
     <card number="4" name="Fireball" />
     <card number="2" name="Lightning Bolt" />

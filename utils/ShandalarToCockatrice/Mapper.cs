@@ -48,7 +48,7 @@ namespace ShandalarToCockatrice
         }
 
         static IEnumerable<DeckItem> Subtract(
-            this IEnumerable<DeckItem> items, 
+            this IEnumerable<DeckItem> items,
             IEnumerable<DeckItem> toSubtract)
         {
             var toSubtractCache = toSubtract.ToDictionary(GetKey);
@@ -75,11 +75,10 @@ namespace ShandalarToCockatrice
             foreach (var item in items)
             {
                 if (GetKey(item) == "will-o-the-wisp")
-                {
                     item.Name = "Will-o'-the-Wisp";
-                }
 
-
+                if (GetKey(item) == "manaflare")
+                    item.Name = "Mana Flare";
 
                 yield return item;
             }
