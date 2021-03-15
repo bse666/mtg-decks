@@ -29,6 +29,9 @@ namespace ShandalarToCockatrice
 
             var sideboardCount = deck.Sideboard.Sum(x => x.Count);
             if (sideboardCount > 15) yield return $"The sideboard of {deck.Name} has more than 15 cards.";
+
+            var astralCards = deckWithSideboard.Where(x => IsAstral(x));
+            if (astralCards.Any()) yield return $"The deck {deck.Name} has these Astral cards: {astralCards.ToListString()}";
         }
 
         static string ToListString(this IEnumerable<DeckItem> items) =>
@@ -50,6 +53,25 @@ namespace ShandalarToCockatrice
             "snow-covered mountain",
             "snow-covered forest",
             "wastes"
+        };
+
+        static bool IsAstral(this DeckItem item) =>
+            _astralCardNames.Contains(Mapper.GetKey(item));
+
+        static readonly string[] _astralCardNames = new[]
+        {
+            "aswan jaguar",
+            "call from the grave",
+            "faerie dragon",
+            "gem bazaar",
+            "goblin polka band",
+            "necropolis of azar",
+            "orcish catapult",
+            "pandora's box",
+            "power struggle",
+            "prismatic dragon",
+            "rainbow knights",
+            "whimsy"
         };
     }
 }
