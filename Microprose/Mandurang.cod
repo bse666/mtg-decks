@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mandurang</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="2" price="0" name="Carrion Ants" />
+    <card number="4" price="0" name="Zephyr Falcon" />
+    <card number="4" price="0" name="Will-O-The-Wisp" />
+    <card number="4" price="0" name="Dancing Scimitar" />
+    <card number="4" price="0" name="Ornithopter" />
+    <card number="2" price="0" name="Celestial Prism" />
+    <card number="6" price="0" name="Mountain" />
+    <card number="6" price="0" name="Swamp" />
+    <card number="6" price="0" name="Island" />
+    <card number="1" price="0" name="Mox Ruby" />
+    <card number="1" price="0" name="Mox Jet" />
+    <card number="1" price="0" name="Mox Sapphire" />
+    <card number="2" price="0" name="Jayemdae Tome" />
+    <card number="4" price="0" name="Giant Strength" />
+    <card number="4" price="0" name="Unstable Mutation" />
+    <card number="4" price="0" name="Unholy Strength" />
+    <card number="1" price="0" name="Braingeyser" />
+    <card number="1" price="0" name="Blood Lust" />
+    <card number="3" price="0" name="Cursed Land" />
+  </zone>
+  <zone name="sideboard">
+    <card number="3" price="0" name="Bog Wraith" />
+    <card number="3" price="0" name="Red Elemental Blast" />
+    <card number="2" price="0" name="Deathgrip" />
+    <card number="1" price="0" name="Lifetap" />
+  </zone>
+</cockatrice_deck>

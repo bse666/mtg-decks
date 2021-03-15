@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Astral Visionary</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="24" price="0" name="Island" />
+    <card number="4" price="0" name="Counterspell" />
+    <card number="1" price="0" name="Ancestral Recall" />
+    <card number="1" price="0" name="Time Walk" />
+    <card number="1" price="0" name="Timetwister" />
+    <card number="1" price="0" name="Copy Artifact" />
+    <card number="4" price="0" name="Leviathan" />
+    <card number="4" price="0" name="Stasis" />
+    <card number="1" price="0" name="Mox Sapphire" />
+    <card number="1" price="0" name="Black Lotus" />
+    <card number="2" price="0" name="Twiddle" />
+    <card number="4" price="0" name="Yotian Soldiers" />
+    <card number="4" price="0" name="Howling Mine" />
+    <card number="4" price="0" name="Zephyr Falcon" />
+    <card number="3" price="0" name="Unstable Mutation" />
+    <card number="3" price="0" name="Drain Power" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" price="0" name="Lifetap" />
+  </zone>
+</cockatrice_deck>

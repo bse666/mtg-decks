@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Undead Knight</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Swamp" />
+    <card number="3" price="0" name="Howl from Beyond" />
+    <card number="3" price="0" name="Unholy Strength" />
+    <card number="4" price="0" name="Bad Moon" />
+    <card number="2" price="0" name="Flying Carpet" />
+    <card number="4" price="0" name="Black Knight" />
+    <card number="2" price="0" name="Drudge Skeletons" />
+    <card number="2" price="0" name="Scathe Zombies" />
+    <card number="2" price="0" name="Frozen Shade" />
+    <card number="2" price="0" name="Fear" />
+    <card number="2" price="0" name="Spirit Shackle" />
+    <card number="2" price="0" name="Lost Soul" />
+    <card number="3" price="0" name="El-Hajjaj" />
+    <card number="2" price="0" name="Marsh Gas" />
+    <card number="2" price="0" name="Nightmare" />
+    <card number="3" price="0" name="Terror" />
+  </zone>
+  <zone name="sideboard">
+    <card number="3" price="0" name="Bog Wraith" />
+    <card number="3" price="0" name="Animate Dead" />
+    <card number="3" price="0" name="Simulacrum" />
+    <card number="2" price="0" name="Brass Man" />
+    <card number="1" price="0" name="Obsianus Golem" />
+  </zone>
+</cockatrice_deck>

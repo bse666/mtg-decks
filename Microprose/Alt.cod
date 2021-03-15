@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Alt</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="7" price="0" name="Forest" />
+    <card number="7" price="0" name="Swamp" />
+    <card number="7" price="0" name="Island" />
+    <card number="4" price="0" name="Gem Bazaar" />
+    <card number="2" price="0" name="Untamed Wilds" />
+    <card number="2" price="0" name="Wall of Ice" />
+    <card number="2" price="0" name="Wall of Bone" />
+    <card number="2" price="0" name="Wall of Air" />
+    <card number="2" price="0" name="Birds of Paradise" />
+    <card number="2" price="0" name="Bog Imp" />
+    <card number="2" price="0" name="Cockatrice" />
+    <card number="2" price="0" name="Mahamoti Djinn" />
+    <card number="2" price="0" name="Phantasmal Forces" />
+    <card number="2" price="0" name="Scryb Sprites" />
+    <card number="2" price="0" name="Vampire Bats" />
+    <card number="2" price="0" name="Zephyr Falcon" />
+    <card number="2" price="0" name="Phantom Monster" />
+    <card number="2" price="0" name="Junun Efreet" />
+    <card number="2" price="0" name="Lord of the Pit" />
+    <card number="2" price="0" name="Energy Flux" />
+    <card number="2" price="0" name="Stream of Life" />
+    <card number="1" price="0" name="Ancestral Recall" />
+    <card number="1" price="0" name="Time Walk" />
+    <card number="1" price="0" name="Timetwister" />
+  </zone>
+  <zone name="sideboard" />
+</cockatrice_deck>

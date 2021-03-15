@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Beast Master</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="21" price="0" name="Forest" />
+    <card number="2" price="0" name="Birds of Paradise" />
+    <card number="4" price="0" name="Timber Wolves" />
+    <card number="4" price="0" name="Naf's Asp" />
+    <card number="4" price="0" name="Grizzly Bears" />
+    <card number="3" price="0" name="Stream of Life" />
+    <card number="4" price="0" name="Aspect of Wolf" />
+    <card number="4" price="0" name="Aswan Jaguar" />
+    <card number="2" price="0" name="Durkwood Boars" />
+    <card number="4" price="0" name="Giant Growth" />
+    <card number="2" price="0" name="Web" />
+    <card number="2" price="0" name="Untamed Wilds" />
+    <card number="2" price="0" name="Giant Spider" />
+    <card number="2" price="0" name="Desert Twister" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Tsunami" />
+    <card number="1" price="0" name="Tranquility" />
+  </zone>
+</cockatrice_deck>

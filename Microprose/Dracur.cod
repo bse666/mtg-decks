@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Dracur</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="5" price="0" name="Mountain" />
+    <card number="5" price="0" name="Swamp" />
+    <card number="5" price="0" name="Forest" />
+    <card number="3" price="0" name="Gem Bazaar" />
+    <card number="1" price="0" name="Mox Emerald" />
+    <card number="1" price="0" name="Mox Jet" />
+    <card number="1" price="0" name="Mox Ruby" />
+    <card number="1" price="0" name="Black Lotus" />
+    <card number="2" price="0" name="Strip Mine" />
+    <card number="2" price="0" name="Fellwar Stone" />
+    <card number="4" price="0" name="Stone Rain" />
+    <card number="2" price="0" name="Dingus Egg" />
+    <card number="2" price="0" name="Fireball" />
+    <card number="2" price="0" name="Disintegrate" />
+    <card number="2" price="0" name="Lightning Bolt" />
+    <card number="2" price="0" name="Manaflare" />
+    <card number="2" price="0" name="Blight" />
+    <card number="2" price="0" name="Desert Twister" />
+    <card number="3" price="0" name="Fissure" />
+    <card number="1" price="0" name="Mind Twist" />
+    <card number="2" price="0" name="Ragman" />
+    <card number="4" price="0" name="Hypnotic Specter" />
+    <card number="2" price="0" name="Disrupting Scepter" />
+    <card number="3" price="0" name="Wall of Dust" />
+    <card number="1" price="0" name="Tranquility" />
+    <card number="2" price="0" name="Earthquake" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Tranquility" />
+    <card number="1" price="0" name="Tsunami" />
+    <card number="2" price="0" name="Stream of Life" />
+    <card number="1" price="0" name="Gloom" />
+  </zone>
+</cockatrice_deck>

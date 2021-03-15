@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Troll Shaman</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Mountain" />
+    <card number="2" price="0" name="Stripmine" />
+    <card number="2" price="0" name="Lightning Bolt" />
+    <card number="2" price="0" name="Conservator" />
+    <card number="3" price="0" name="Fireball" />
+    <card number="4" price="0" name="Stone Giant" />
+    <card number="4" price="0" name="Hill Giant" />
+    <card number="2" price="0" name="Gray Ogre" />
+    <card number="4" price="0" name="Uthden Troll" />
+    <card number="3" price="0" name="The Brute" />
+    <card number="3" price="0" name="Eternal Warrior" />
+    <card number="2" price="0" name="Hurloon Minotaur" />
+    <card number="2" price="0" name="Oasis" />
+    <card number="2" price="0" name="Dancing Scimitar" />
+    <card number="2" price="0" name="Shatter" />
+    <card number="1" price="0" name="Shivan Dragon" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Throne of Bone" />
+    <card number="1" price="0" name="Red Elemental Blast" />
+  </zone>
+</cockatrice_deck>

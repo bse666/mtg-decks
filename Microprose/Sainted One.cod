@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sainted One</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Plains" />
+    <card number="1" price="0" name="Mox Pearl" />
+    <card number="1" price="0" name="Sol Ring" />
+    <card number="1" price="0" name="Black Lotus" />
+    <card number="1" price="0" name="Mishra's Workshop" />
+    <card number="2" price="0" name="White Mana Battery" />
+    <card number="2" price="0" name="Serra Angel" />
+    <card number="2" price="0" name="Personal Incarnation" />
+    <card number="3" price="0" name="White Knight" />
+    <card number="3" price="0" name="Knights of the Rainbow Vale" />
+    <card number="2" price="0" name="Blessing" />
+    <card number="1" price="0" name="Balance" />
+    <card number="3" price="0" name="Dingus Egg" />
+    <card number="4" price="0" name="Circle of Protection from Artifacts" />
+    <card number="3" price="0" name="Armageddon Clock" />
+    <card number="3" price="0" name="Bottle of Suleiman" />
+    <card number="3" price="0" name="Armageddon" />
+    <card number="2" price="0" name="Swords to Plowshares" />
+    <card number="1" price="0" name="Disenchant" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Karma" />
+    <card number="1" price="0" name="Circle of Protection Black" />
+    <card number="1" price="0" name="Angry Mob" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Thought Invoker</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Island" />
+    <card number="4" price="0" name="Giant Tortoise" />
+    <card number="4" price="0" name="Psychic Venom" />
+    <card number="3" price="0" name="Mana Short" />
+    <card number="3" price="0" name="Drain Power" />
+    <card number="2" price="0" name="Control Magic" />
+    <card number="3" price="0" name="Power Sink" />
+    <card number="3" price="0" name="Power Leak" />
+    <card number="4" price="0" name="Ghost Ship" />
+    <card number="2" price="0" name="Energy Flux" />
+    <card number="4" price="0" name="Phantom Monster" />
+    <card number="2" price="0" name="Time Elemental" />
+    <card number="1" price="0" name="Mahamoti Djinn" />
+    <card number="3" price="0" name="Twiddle" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Lifetap" />
+    <card number="1" price="0" name="Volcanic Eruption" />
+  </zone>
+</cockatrice_deck>

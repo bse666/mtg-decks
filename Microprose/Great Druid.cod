@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Great Druid</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Forest" />
+    <card number="3" price="0" name="Llanowar Elves" />
+    <card number="3" price="0" name="Gaea's Liege" />
+    <card number="3" price="0" name="Birds of Paradise" />
+    <card number="4" price="0" name="Aspect of Wolf" />
+    <card number="3" price="0" name="Instill Energy" />
+    <card number="2" price="0" name="Living Lands" />
+    <card number="3" price="0" name="Stream of Life" />
+    <card number="3" price="0" name="Untamed Wilds" />
+    <card number="4" price="0" name="Killer Bees" />
+    <card number="3" price="0" name="Jayemdae Tome" />
+    <card number="2" price="0" name="Living Artifact" />
+    <card number="2" price="0" name="Verduran Enchantress" />
+    <card number="3" price="0" name="Desert Twister" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" price="0" name="Lifeforce" />
+    <card number="2" price="0" name="Shanodin Dryads" />
+  </zone>
+</cockatrice_deck>

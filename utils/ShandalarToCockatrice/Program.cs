@@ -6,14 +6,21 @@ namespace ShandalarToCockatrice
 {
     static class Program
     {
-        const string sourceDir = "C:/program files (x86)/magictg/decks";
-        const string targetDir = "C:/users/james/desktop/decks";
-
         static void Main()
         {
+            var sourceDir = Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86),
+                "MagicTG/Decks");
+
+            var targetDir = Path.GetFullPath(
+                Path.Combine(
+                    Directory.GetCurrentDirectory(),
+                    "../../../../../Microprose"));
+
             var allIssues = new List<string>();
 
             var allFiles = Directory.GetFiles(sourceDir);
+
             foreach (var f in allFiles)
             {
                 Console.WriteLine($"Processing {f}");

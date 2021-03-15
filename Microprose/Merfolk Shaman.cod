@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Merfolk Shaman</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="22" price="0" name="Island" />
+    <card number="4" price="0" name="Merfolk of the Pearl Trident" />
+    <card number="4" price="0" name="Lord of Atlantis" />
+    <card number="4" price="0" name="Segovian Leviathan" />
+    <card number="4" price="0" name="Unstable Mutation" />
+    <card number="4" price="0" name="Phantasmal Terrain" />
+    <card number="3" price="0" name="Pirate Ship" />
+    <card number="3" price="0" name="Sea Serpent" />
+    <card number="2" price="0" name="Island Fish Jasconius" />
+    <card number="3" price="0" name="Magical Hack" />
+    <card number="3" price="0" name="Lifetap" />
+    <card number="4" price="0" name="Unsummon" />
+  </zone>
+  <zone name="sideboard" />
+</cockatrice_deck>

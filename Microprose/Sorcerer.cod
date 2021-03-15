@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Sorcerer</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="20" price="0" name="Mountain" />
+    <card number="4" price="0" name="Manabarbs" />
+    <card number="4" price="0" name="Goblin Balloon Brigade" />
+    <card number="3" price="0" name="Brass Man" />
+    <card number="4" price="0" name="Mons Goblin Raiders" />
+    <card number="3" price="0" name="Ali Baba" />
+    <card number="3" price="0" name="Hurr Jackal" />
+    <card number="4" price="0" name="Sisters of the Flame" />
+    <card number="4" price="0" name="Winds of Change" />
+    <card number="4" price="0" name="Lightning Bolt" />
+    <card number="4" price="0" name="Giant Strength" />
+    <card number="3" price="0" name="Immolation" />
+  </zone>
+  <zone name="sideboard">
+    <card number="2" price="0" name="Burrowing" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Saltrem Tor</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="6" price="0" name="Mountain" />
+    <card number="6" price="0" name="Island" />
+    <card number="11" price="0" name="Forest" />
+    <card number="3" price="0" name="Birds of Paradise" />
+    <card number="3" price="0" name="Giant Strength" />
+    <card number="2" price="0" name="Web" />
+    <card number="3" price="0" name="Unstable Mutation" />
+    <card number="2" price="0" name="Regeneration" />
+    <card number="2" price="0" name="Eternal Warrior" />
+    <card number="2" price="0" name="Giant Tortoise" />
+    <card number="3" price="0" name="Prodigal Sorcerer" />
+    <card number="3" price="0" name="Crimson Manticore" />
+    <card number="2" price="0" name="Fungusaur" />
+    <card number="2" price="0" name="Timber Wolves" />
+    <card number="2" price="0" name="Verduran Enchantress" />
+    <card number="2" price="0" name="Whirling Dervish" />
+    <card number="2" price="0" name="Siren's Call" />
+    <card number="2" price="0" name="Control Magic" />
+    <card number="2" price="0" name="Fireball" />
+  </zone>
+  <zone name="sideboard" />
+</cockatrice_deck>

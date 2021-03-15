@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Winged Stallion</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="12" price="0" name="Plains" />
+    <card number="12" price="0" name="Island" />
+    <card number="3" price="0" name="Howling Mine" />
+    <card number="3" price="0" name="Island Sanctuary" />
+    <card number="4" price="0" name="Mesa Pegasus" />
+    <card number="2" price="0" name="Phantasmal Forces" />
+    <card number="2" price="0" name="Serra Angel" />
+    <card number="2" price="0" name="Dancing Scimitar" />
+    <card number="4" price="0" name="Magical Hack" />
+    <card number="2" price="0" name="Karma" />
+    <card number="2" price="0" name="Lifetap" />
+    <card number="4" price="0" name="Psionic Entity" />
+    <card number="3" price="0" name="Holy Armor" />
+    <card number="3" price="0" name="Holy Strength" />
+    <card number="2" price="0" name="Segovian Leviathan" />
+    <card number="1" price="0" name="Disenchant" />
+    <card number="1" price="0" name="Conversion" />
+    <card number="2" price="0" name="Counterspell" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Counterspell" />
+    <card number="1" price="0" name="Conversion" />
+  </zone>
+</cockatrice_deck>

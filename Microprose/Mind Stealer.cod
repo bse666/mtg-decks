@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Mind Stealer</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="11" price="0" name="Swamp" />
+    <card number="11" price="0" name="Island" />
+    <card number="3" price="0" name="Hypnotic Specter" />
+    <card number="4" price="0" name="Sengir Vampire" />
+    <card number="3" price="0" name="Will-O-The-Wisp" />
+    <card number="4" price="0" name="Control Magic" />
+    <card number="2" price="0" name="Steal Artifact" />
+    <card number="4" price="0" name="Unholy Strength" />
+    <card number="2" price="0" name="Siren's Call" />
+    <card number="1" price="0" name="Mind Twist" />
+    <card number="2" price="0" name="Phantasmal Forces" />
+    <card number="2" price="0" name="Phantom Monster" />
+    <card number="2" price="0" name="Drain Power" />
+    <card number="2" price="0" name="Fellwar Stone" />
+    <card number="2" price="0" name="Junun Efreet" />
+    <card number="2" price="0" name="Animate Dead" />
+    <card number="2" price="0" name="Call from the Grave" />
+    <card number="3" price="0" name="Sindbad" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Lifetap" />
+    <card number="1" price="0" name="Deathgrip" />
+    <card number="1" price="0" name="Volcanic Eruption" />
+  </zone>
+</cockatrice_deck>

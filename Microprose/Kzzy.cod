@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Kzzy</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="18" price="0" name="Mountain" />
+    <card number="2" price="0" name="Forest" />
+    <card number="2" price="0" name="Plains" />
+    <card number="4" price="0" name="Gem Bazaar" />
+    <card number="4" price="0" name="Birds of Paradise" />
+    <card number="2" price="0" name="Fellwar Stone" />
+    <card number="2" price="0" name="Manaflare" />
+    <card number="2" price="0" name="Disenchant" />
+    <card number="4" price="0" name="Lightning Bolt" />
+    <card number="4" price="0" name="Shivan Dragon" />
+    <card number="4" price="0" name="Dragon Whelp" />
+    <card number="2" price="0" name="Dragon Engine" />
+    <card number="2" price="0" name="Faerie Dragon" />
+    <card number="2" price="0" name="Prismatic Dragon" />
+    <card number="2" price="0" name="Celestial Prism" />
+    <card number="2" price="0" name="Craw Wurm" />
+    <card number="2" price="0" name="Elder Land Wurm" />
+    <card number="1" price="0" name="Ivory Tower" />
+    <card number="3" price="0" name="Winds of Change" />
+  </zone>
+  <zone name="sideboard" />
+</cockatrice_deck>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Summoner</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="20" price="0" name="Forest" />
+    <card number="4" price="0" name="Plains" />
+    <card number="2" price="0" name="Colossus of Sardia" />
+    <card number="4" price="0" name="Birds of Paradise" />
+    <card number="4" price="0" name="Lifelace" />
+    <card number="1" price="0" name="Channel" />
+    <card number="3" price="0" name="Circle of Protection Green" />
+    <card number="4" price="0" name="Hurricane" />
+    <card number="4" price="0" name="War Mammoth" />
+    <card number="3" price="0" name="Force of Nature" />
+    <card number="2" price="0" name="Disenchant" />
+    <card number="2" price="0" name="Healing Salve" />
+    <card number="4" price="0" name="Radjan Spirit" />
+    <card number="3" price="0" name="Giant Growth" />
+  </zone>
+  <zone name="sideboard">
+    <card number="1" price="0" name="Lifeforce" />
+    <card number="1" price="0" name="Tsunami" />
+  </zone>
+</cockatrice_deck>
