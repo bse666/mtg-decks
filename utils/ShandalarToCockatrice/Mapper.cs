@@ -35,7 +35,13 @@ namespace ShandalarToCockatrice
             var astralCards = cards.Concat(sideboard).Where(Validator.IsAstral);
             if (astralCards.Any())
             {
-                d.Comments += $"Contains these Astral cards: {astralCards.ToListString()}.";
+                d.Comments += $"Contains these Astral cards: {astralCards.ToListString()}. ";
+            }
+
+            var anteCards = cards.Concat(sideboard).Where(Validator.IsAnte);
+            if (anteCards.Any())
+            {
+                d.Comments += $"Contains these ante cards: {anteCards.ToListString()}. ";
             }
 
             return d;

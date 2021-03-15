@@ -30,8 +30,11 @@ namespace ShandalarToCockatrice
             var sideboardCount = deck.Sideboard.Sum(x => x.Count);
             if (sideboardCount > 15) yield return $"The sideboard of {deck.Name} has more than 15 cards.";
 
-            var astralCards = deckWithSideboard.Where(x => IsAstral(x));
+            var astralCards = deckWithSideboard.Where(IsAstral);
             if (astralCards.Any()) yield return $"The deck {deck.Name} has these Astral cards: {astralCards.ToListString()}";
+
+            var anteCards = deckWithSideboard.Where(IsAnte);
+            if (anteCards.Any()) yield return $"The deck {deck.Name} has these ante cards: {anteCards.ToListString()}.";
         }
 
         public static string ToListString(this IEnumerable<DeckItem> items) =>
@@ -72,6 +75,22 @@ namespace ShandalarToCockatrice
             "prismatic dragon",
             "rainbow knights",
             "whimsy"
+        };
+
+        public static bool IsAnte(this DeckItem item) =>
+            _anteCardNames.Contains(Mapper.GetKey(item));
+
+        static readonly string[] _anteCardNames = new[]
+        {
+            "amulet of quoz",
+            "bronze tablet",
+            "contract from below",
+            "darkpact",
+            "demonic tutor",
+            "jeweled bird",
+            "rebirth",
+            "tempest efreet",
+            "timmerian fiends"
         };
     }
 }
