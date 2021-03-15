@@ -11,6 +11,7 @@ namespace ShandalarToCockatrice
             var cards = shandalarDeck.Core
                 .Concat(shandalarDeck.DefaultExtension)
                 .ConsolidateDuplicates(Enumerable.Sum) // Sum count of cards in core and default extension
+                .FixBugs()
                 .ToArray();
 
             var sideboard = shandalarDeck.BlackExtension
@@ -20,6 +21,7 @@ namespace ShandalarToCockatrice
                 .Concat(shandalarDeck.WhiteExtension)
                 .ConsolidateDuplicates(Enumerable.Max) // Take max count of each card used in any color extension
                 .Subtract(shandalarDeck.DefaultExtension) // Subtract count from default extension
+                .FixBugs()
                 .ToArray();
 
             return new Deck
@@ -65,6 +67,22 @@ namespace ShandalarToCockatrice
                     };
                 })
                 .Where(x => x.Count > 0);
+        }
+
+        static IEnumerable<DeckItem> FixBugs(
+            this IEnumerable<DeckItem> items)
+        {
+            foreach (var item in items)
+            {
+                if (GetKey(item) == "will-o-the-wisp")
+                {
+                    item.Name = "Will-o'-the-Wisp";
+                }
+
+
+
+                yield return item;
+            }
         }
     }
 }
