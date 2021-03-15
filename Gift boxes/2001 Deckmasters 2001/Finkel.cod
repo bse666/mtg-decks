@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Deckmasters 2001 - Finkel</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Swamp"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Underground River"/>
+        <card number="2" name="Abyssal Specter"/>
+        <card number="2" name="Foul Familiar"/>
+        <card number="2" name="Phantasmal Fiend"/>
+        <card number="1" name="Balduvian Horde"/>
+        <card number="2" name="Goblin Mutant"/>
+        <card number="2" name="Orcish Cannoneers"/>
+        <card number="2" name="Storm Shaman"/>
+        <card number="2" name="Icy Manipulator"/>
+        <card number="2" name="Phyrexian War Beast"/>
+        <card number="2" name="Contagion"/>
+        <card number="2" name="Dark Ritual"/>
+        <card number="2" name="Dark Banishing"/>
+        <card number="2" name="Incinerate"/>
+        <card number="2" name="Soul Burn"/>
+        <card number="2" name="Lava Burst"/>
+        <card number="2" name="Pyroclasm"/>
+        <card number="1" name="Necropotence"/>
+        <card number="2" name="Guerrilla Tactics"/>
+        <card number="2" name="Lim-Dûl's High Guard"/>
+    </zone>
+</cockatrice_deck>
