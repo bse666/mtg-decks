@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -15,19 +16,21 @@ namespace ShandalarToCockatrice
 
         static XDocument ToDocument(this Deck deck)
         {
+            var children = new List<XElement>
+            {
+                new XElement("deckname", deck.Name),
+                new XElement("comments", deck.Comments),
+                new XElement("zone", new XAttribute("name", "main"), deck.Cards.Select(ToElement))
+            };
+
+            if (deck.Sideboard.Length > 0)
+            {
+                children.Add(
+                    new XElement("zone", new XAttribute("name", "side"), deck.Sideboard.Select(ToElement)));
+            }
+
             return new XDocument(
-                new XElement("cockatrice_deck", new XAttribute("version", "1"),
-                new[]
-                {
-                    new XElement("deckname", deck.Name),
-                    new XElement("comments", deck.Comments),
-                    new XElement("zone", new XAttribute("name", "main"),
-                        deck.Cards.Select(ToElement)
-                    ),
-                    new XElement("zone", new XAttribute("name", "side"),
-                        deck.Sideboard.Select(ToElement)
-                    )
-                })
+                new XElement("cockatrice_deck", new XAttribute("version", "1"), children)
             );
         }
 

@@ -18,5 +18,4 @@
     <card number="2" name="Disenchant" />
     <card number="3" name="Righteousness" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

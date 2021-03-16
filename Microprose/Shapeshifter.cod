@@ -19,5 +19,4 @@
     <card number="3" name="Urza's Avenger" />
     <card number="3" name="Triskelion" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

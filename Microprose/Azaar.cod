@@ -21,5 +21,4 @@
     <card number="3" name="Bog Imp" />
     <card number="4" name="Howl from Beyond" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

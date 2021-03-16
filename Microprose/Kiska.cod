@@ -20,5 +20,4 @@
     <card number="2" name="Birds of Paradise" />
     <card number="2" name="Pikemen" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

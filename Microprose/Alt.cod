@@ -28,5 +28,4 @@
     <card number="1" name="Time Walk" />
     <card number="1" name="Timetwister" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

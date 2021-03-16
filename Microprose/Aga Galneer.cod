@@ -25,5 +25,4 @@
     <card number="2" name="Savannah Lions" />
     <card number="2" name="Hurricane" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

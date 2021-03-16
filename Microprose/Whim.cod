@@ -28,5 +28,4 @@
     <card number="1" name="Kormus Bell" />
     <card number="1" name="Whimsy" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

@@ -23,5 +23,4 @@
     <card number="1" name="Ivory Tower" />
     <card number="3" name="Winds of Change" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

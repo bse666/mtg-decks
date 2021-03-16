@@ -23,5 +23,4 @@
     <card number="2" name="Control Magic" />
     <card number="2" name="Fireball" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

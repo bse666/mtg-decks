@@ -17,5 +17,4 @@
     <card number="2" name="Hurkyl's Recall" />
     <card number="3" name="Ornithopter" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

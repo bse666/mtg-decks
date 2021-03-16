@@ -19,5 +19,4 @@
     <card number="3" name="Disintegrate" />
     <card number="4" name="Firebreathing" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

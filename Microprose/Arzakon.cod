@@ -79,5 +79,4 @@
     <card number="1" name="Red Mana Battery" />
     <card number="1" name="Mishra's Workshop" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>

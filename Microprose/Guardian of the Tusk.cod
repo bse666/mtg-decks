@@ -19,5 +19,4 @@
     <card number="2" name="Colossus of Sardia" />
     <card number="1" name="Berserk" />
   </zone>
-  <zone name="side" />
 </cockatrice_deck>
