@@ -32,13 +32,13 @@ namespace ShandalarToCockatrice
                 Sideboard = sideboard
             };
 
-            var astralCards = cards.Concat(sideboard).Where(Validator.IsAstral);
+            var astralCards = cards.Concat(sideboard).Where(CardInfo.IsAstral);
             if (astralCards.Any())
             {
                 d.Comments += $"Contains these Astral cards: {astralCards.ToListString()}. ";
             }
 
-            var anteCards = cards.Concat(sideboard).Where(Validator.IsAnte);
+            var anteCards = cards.Concat(sideboard).Where(CardInfo.IsAnte);
             if (anteCards.Any())
             {
                 d.Comments += $"Contains these ante cards: {anteCards.ToListString()}. ";
