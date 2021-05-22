@@ -1,0 +1,143 @@
+//NAME: [Budget Update] Commander 2020 Symbiotic Swarm from deckstats.net
+
+//Main
+1 [C20] Kathril, Aspect Warper # !Commander
+1 [C20] Cairn Wanderer
+1 [C20] Daring Fiendbonder
+1 [IKO] Eerie Ultimatum
+1 [C20] Majestic Myriarch
+1 [C20] Netherborn Altar
+1 [C20] Odric, Lunarch Marshal
+1 [IKO] The Ozolith
+
+//Soup
+1 [C20] Aerial Responder #F, V, L
+1 [C20] Archon of Valor's Reach #F, V, T
+1 [JOU] Bassara Tower Archer #Hex, R
+1 [XLN] Carnage Tyrant #T, Hex
+1 [C20] Karametra, God of Harvests #Ind - Ramp
+1 [THB] Kunoros, Hound of Athreos #V, M, L
+1 [THB] Nylea, Keen-Eyed #Ind - Ramp
+1 [AKH] Oketra the True #Ind, Ds - Token
+1 [C20] Slippery Bogbonder #Hex
+1 [C20] Solemn Recruit #Ds
+1 [C20] Vampire Nighthawk #F, Dt, L
+
+//Graveyard shenanigans
+1 [MH1] Altar of Dementia
+1 [C20] Deadbridge Chant
+1 [GRN] Doom Whisperer
+1 [UMA] Golgari Grave-Troll
+1 [C20] Grisly Salvage
+1 [RIX] Journey to Eternity // Atzal, Cave of Eternity
+1 [C20] Nyx Weaver
+1 [KLD] Perpetual Timepiece
+1 [C20] Satyr Wayfinder
+1 [C20] Selective Adaptation
+1 [C20] Skullwinder
+1 [GK1] Stinkweed Imp
+1 [C20] Unburial Rites
+1 [GRN] Underrealm Lich
+
+//Ramp
+1 [C20] Arcane Signet
+1 [C20] Cultivate
+1 [C19] Farseek
+1 [WAR] Leyline Prowler
+1 [C20] Sakura-Tribe Elder
+1 [C19] Sevinne's Reclamation
+1 [IKO] Skull Prophet
+1 [C20] Sol Ring
+
+//Draw
+1 [BBD] Greater Good
+1 [C19] Grim Haruspex
+1 [GRN] Midnight Reaper
+1 [ELD] Return of the Wildspeaker
+
+//Removal and BW
+1 [C20] Cataclysmic Gearhulk
+1 [C20] Despark
+1 [C19] Divine Reckoning
+1 [WAR] Single Combat
+1 [ORI] Tragic Arrogance
+
+//Lands
+1 [C20] Blighted Woodland
+1 [ELD] Castle Locthwain
+1 [C20] Caves of Koilos
+1 [C20] Command Tower
+1 [C20] Exotic Orchard
+1 [C20] Gavony Township
+1 [C20] Grim Backwoods
+1 [DOM] Isolated Chapel
+1 [C20] Krosan Verge
+1 [C20] Sandsteppe Citadel
+1 [C20] Sungrass Prairie
+1 [XLN] Sunpetal Grove
+1 [E02] Tainted Field
+1 [CMA] Tainted Wood
+1 [DOM] Woodland Cemetery
+
+//Fetch
+1 [VMA] Bad River
+1 [VMA] Flood Plain
+1 [C17] Grasslands
+1 [C18] Mountain Valley
+1 [C18] Rocky Tar Pit
+1 [KTK] Windswept Heath
+
+//Fetchable
+1 [C20] Canopy Vista
+4 [IKO] Forest
+1 [RNA] Godless Shrine
+1 [CM2] Murmuring Bosk
+1 [GRN] Overgrown Tomb
+2 [IKO] Plains
+1 [AKH] Scattered Groves
+3 [IKO] Swamp
+1 [GRN] Temple Garden
+
+//Combo Voltron
+1 [C20] Akroma, Angel of Wrath #F, Fs, V, T, H
+1 [UMA] Buried Alive
+1 [RTR] Jarad's Orders
+1 [C20] Lightning Greaves
+1 [AKH] Rhonas the Indomitable #Ind, Dt
+1 [C20] Swiftfoot Boots
+1 [C20] Zetalpa, Primal Dawn #F, Ds, V, T, Ind
+
+//Maybe
+1 [C20] Acidic Slime
+1 [THB] Athreos, Shroud-Veiled #Ind - Coin Counters
+1 [C20] Duneblast
+1 [C20] Harmonize
+1 [C20] Knight of the White Orchid
+1 [C20] Kodama's Reach
+1 [C20] Splinterfright
+
+//Sideboard
+SB: 1 [C20] Angel of Finality
+SB: 1 [C20] Avenging Huntbonder #Ds
+SB: 1 [AKH] Bontu the Glorified #Ins, M
+SB: 1 [C20] Commander's Sphere
+SB: 1 [MM3] Corpse Connoisseur
+SB: 1 [C20] Deathsprout
+SB: 1 [THB] Erebos, Bleak-Hearted
+SB: 1 [C20] Ever After
+SB: 1 [GRN] Glowspore Shaman
+SB: 1 [C20] Hornet Queen
+SB: 1 [C20] Kalemne's Captain
+SB: 1 [CM2] Living Death
+SB: 1 [GK1] Lotleth Troll
+SB: 1 [THB] Mire Triton
+SB: 1 [GRN] Nullhide Ferox
+SB: 1 [C20] Reveillark
+SB: 1 [UMA] Sigarda, Host of Herons
+SB: 1 [WAR] Sunblade Angel #F, Fs, V, L
+SB: 1 [THS] Sylvan Caryatid
+SB: 1 [C20] Tayam, Luminous Enigma
+SB: 1 [C20] Together Forever
+SB: 1 [IKO] Unbreakable Bond
+SB: 1 [C20] Vitality Hunter
+SB: 1 [C16] Whispersilk Cloak
