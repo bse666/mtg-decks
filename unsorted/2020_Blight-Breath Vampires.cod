@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Blight-Breath Vampires</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ob Nixilis's Cruelty"/>
+        <card number="1" name="Sorin's Thirst"/>
+        <card number="2" name="Bake into a Pie"/>
+        <card number="1" name="Belle of the Brawl"/>
+        <card number="2" name="Reave Soul"/>
+        <card number="3" name="Blight-Breath Catoblepas"/>
+        <card number="1" name="Demon of Loathing"/>
+        <card number="1" name="Eat to Extinction"/>
+        <card number="1" name="Final Death"/>
+        <card number="1" name="Funeral Rites"/>
+        <card number="1" name="Omen of the Dead"/>
+        <card number="1" name="Pharika's Spawn"/>
+        <card number="20" name="Swamp"/>
+        <card number="1" name="Tymaret, Chosen from Death"/>
+        <card number="1" name="Underworld Charger"/>
+        <card number="1" name="Venomous Hierophant"/>
+        <card number="2" name="Bone Splinters"/>
+        <card number="1" name="Deadly Visit"/>
+        <card number="1" name="Gruesome Menagerie"/>
+        <card number="1" name="Moodmark Painter"/>
+        <card number="1" name="Pilfering Imp"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="2" name="Agonizing Syphon"/>
+        <card number="2" name="Barony Vampire"/>
+        <card number="1" name="Boneclad Necromancer"/>
+        <card number="2" name="Dismal Backwater"/>
+        <card number="2" name="Dread Presence"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Gruesome Scourger"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Thought Distortion"/>
+        <card number="1" name="Foulmire Knight"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Vizkopa Vampire"/>
+        <card number="1" name="Vindictive Vampire"/>
+        <card number="2" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Sorin, Vampire Lord"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="2" name="Kaya, Orzhov Usurper"/>
+        <card number="1" name="Oath of Kaya"/>
+        <card number="2" name="Huatli, the Sun's Heart"/>
+        <card number="2" name="Twinblade Paladin"/>
+        <card number="4" name="Cutthroat Maneuver"/>
+        <card number="4" name="Bond of Discipline"/>
+        <card number="2" name="Bloodthirsty Aerialist"/>
+        <card number="2" name="Angel of Vitality"/>
+        <card number="2" name="Ajani's Pridemate"/>
+        <card number="2" name="Ajani, Strength of the Pride"/>
+        <card number="2" name="Grasping Thrull"/>
+        <card number="2" name="Sunmane Pegasus"/>
+        <card number="14" name="Swamp"/>
+        <card number="12" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Loxodon Lifechanter"/>
+        <card number="1" name="Aphemia, the Cacophony"/>
+        <card number="1" name="Vampire Opportunist"/>
+        <card number="1" name="Kaya's Wrath"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+    </zone>
+</cockatrice_deck>

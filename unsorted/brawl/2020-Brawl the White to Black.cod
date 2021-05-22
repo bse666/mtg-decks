@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Brawl the White to Black</deckname>
+    <comments>Teysa - Commander</comments>
+    <zone name="main">
+        <card number="1" name="Sorin, Vengeful Bloodlord"/>
+        <card number="1" name="Sorin, Vampire Lord"/>
+        <card number="1" name="Sorin's Thirst"/>
+        <card number="1" name="Sorin, Imperious Bloodlord"/>
+        <card number="1" name="Vizkopa Vampire"/>
+        <card number="1" name="Cavalier of Night"/>
+        <card number="1" name="Banehound"/>
+        <card number="1" name="Thirsting Shade"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Blood Operative"/>
+        <card number="1" name="Blood Burglar"/>
+        <card number="1" name="Tomebound Lich"/>
+        <card number="1" name="Aspect of Lamprey"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="The Haunt of Hightower"/>
+        <card number="1" name="Bond of Discipline"/>
+        <card number="1" name="Hushbringer"/>
+        <card number="1" name="Daybreak Chaplain"/>
+        <card number="1" name="Sunblade Angel"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Charmed Stray"/>
+        <card number="1" name="Beloved Princess"/>
+        <card number="1" name="Haazda Marshal"/>
+        <card number="1" name="Sunmane Pegasus"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Sentinel's Mark"/>
+        <card number="1" name="Moment of Heroism"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Cryptic Caves"/>
+        <card number="1" name="Lotus Field"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Mobilized District"/>
+        <card number="1" name="Dread Presence"/>
+        <card number="1" name="Clackbridge Troll"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Elspeth's Nightmare"/>
+        <card number="1" name="Tymaret Calls the Dead"/>
+        <card number="1" name="Giant's Skewer"/>
+        <card number="1" name="Malevolent Noble"/>
+        <card number="1" name="Bake into a Pie"/>
+        <card number="1" name="Teysa Karlov"/>
+        <card number="1" name="Castle Ardenvale"/>
+        <card number="6" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Charity Extractor"/>
+        <card number="1" name="Child of Night"/>
+        <card number="1" name="Hunted Witness"/>
+        <card number="1" name="Murderous Rider"/>
+        <card number="1" name="Smitten Swordmaster"/>
+        <card number="1" name="Hateful Eidolon"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Sworn Companions"/>
+        <card number="1" name="Resolute Rider"/>
+    </zone>
+</cockatrice_deck>

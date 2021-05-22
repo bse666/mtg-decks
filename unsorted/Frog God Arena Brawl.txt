@@ -1,0 +1,50 @@
+1 The Gitrog Monster (SOI) 245
+1 The Binding of the Titans (THB) 166
+1 Underrealm Lich (GRN) 211
+1 Glowspore Shaman (GRN) 173
+1 Skola Grovedancer (THB) 202
+1 Witch's Cottage (ELD) 249
+1 Storrev, Devkarin Lich (WAR) 219
+1 Molderhulk (GRN) 190
+1 Golgari Findbroker (GRN) 175
+1 Elvish Reclaimer (M20) 169
+1 Arboreal Grazer (WAR) 149
+1 Urban Utopia (GRN) 146
+1 Once Upon a Time (ELD) 169
+1 Nessian Wanderer (THB) 183
+1 Dryad of the Ilysian Grove (THB) 169
+1 Moldervine Reclamation (M20) 214
+1 Gilded Goose (ELD) 160
+1 Jiang Yanggu, Wildcrafter (WAR) 164
+1 Vivien, Champion of the Wilds (WAR) 180
+1 Vraska, Golgari Queen (GRN) 213
+1 Cavalier of Thorns (M20) 167
+1 Relentless Pursuit (THB) 195
+1 Golgari Locket (GRN) 237
+1 Leyline Prowler (WAR) 202
+1 Savvy Hunter (ELD) 200
+1 Deathsprout (WAR) 189
+1 Garruk, Cursed Huntsman (ELD) 191
+1 Vraska, Swarm's Eminence (WAR) 236
+1 Assassin's Trophy (GRN) 152
+1 Casualties of War (WAR) 187
+1 Find /// Finality (GRN) 225
+1 Status /// Statue (GRN) 230
+1 Izoni, Thousand-Eyed (GRN) 180
+1 Liliana, Dreadhorde General (WAR) 97
+1 Beanstalk Giant (ELD) 149
+1 Nissa, Who Shakes the World (WAR) 169
+1 Renata, Called to the Hunt (THB) 196
+5 Swamp (THB) 282
+7 Forest (THB) 286
+1 Temple of Malady (M20) 254
+1 Overgrown Tomb (GRN) 253
+1 Golgari Guildgate (GRN) 248
+1 Command Tower (ELD) 333
+1 Cryptic Caves (M20) 244
+1 Emergence Zone (WAR) 245
+1 Evolving Wilds (RIX) 186
+1 Fabled Passage (ELD) 244
+1 Field of Ruin (XLN) 254
+1 Lotus Field (M20) 249
+1 Gateway Plaza (WAR) 246

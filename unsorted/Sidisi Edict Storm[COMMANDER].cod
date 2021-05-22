@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sidisi Edict Storm[COMMANDER]</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ad Nauseam (ALA)"/>
+        <card number="1" name="Ancient Tomb (UMA)"/>
+        <card number="1" name="Astral Cornucopia (BNG) 243"/>
+        <card number="1" name="Barren Moor (ONS) 229"/>
+        <card number="1" name="Basal Thrull (FEM)"/>
+        <card number="1" name="Blood Pet (TMP)"/>
+        <card number="1" name="Boseiju, Who Shelters All (CHK)"/>
+        <card number="1" name="Bubbling Muck (UDS)"/>
+        <card number="1" name="Cabal Coffers (TOR)"/>
+        <card number="1" name="Cabal Ritual (TOR)"/>
+        <card number="1" name="Candelabra of Tawnos (ATQ) 187"/>
+        <card number="1" name="Cavern of Souls (AVR) 212"/>
+        <card number="1" name="Chrome Mox (MPS) 219"/>
+        <card number="1" name="City of Traitors (EXO)"/>
+        <card number="1" name="Crystal Vein (MIR) 289"/>
+        <card number="1" name="Culling the Weak (EXO)"/>
+        <card number="1" name="Dark Ritual (3ED)"/>
+        <card number="1" name="Dark Sphere (DRK)"/>
+        <card number="1" name="Defense Grid (ULG)"/>
+        <card number="1" name="Demonic Tutor (LEB)"/>
+        <card number="1" name="Dismember (MM2)"/>
+        <card number="1" name="Duress (USG)"/>
+        <card number="1" name="Ebon Stronghold (6ED) 25"/>
+        <card number="1" name="Elixir of Immortality (M11)"/>
+        <card number="1" name="Endless One (BFZ) 8"/>
+        <card number="1" name="Everflowing Chalice (WWK) 253"/>
+        <card number="1" name="Expedition Map (ZEN) 213"/>
+        <card number="1" name="Feldon's Cane (ATQ)"/>
+        <card number="1" name="Gemstone Caverns (TSP)"/>
+        <card number="1" name="Glacial Chasm (ICE)"/>
+        <card number="1" name="Grim Monolith (ULG) 126"/>
+        <card number="1" name="Grim Tutor (S99) 69"/>
+        <card number="1" name="Gustha's Scepter (ALL)"/>
+        <card number="1" name="Hangarback Walker (ORI) 229"/>
+        <card number="1" name="Imp's Mischief (PLC)"/>
+        <card number="1" name="Imperial Seal (PTK)"/>
+        <card number="1" name="Inquisition of Kozilek (ROE)"/>
+        <card number="1" name="Jeweled Amulet (ICE)"/>
+        <card number="1" name="Lake of the Dead (ALL)"/>
+        <card number="1" name="Lion's Eye Diamond (MIR)"/>
+        <card number="1" name="Lodestone Bauble (ALL)"/>
+        <card number="1" name="Lotus Bloom (TSP)"/>
+        <card number="1" name="Lotus Petal (TMP)"/>
+        <card number="1" name="Mana Crypt (PSG)"/>
+        <card number="1" name="Mana Vault (3ED) 214"/>
+        <card number="1" name="Memnite (SOM) 174"/>
+        <card number="1" name="Mishra's Bauble (CSP)"/>
+        <card number="1" name="Mox Diamond (STH)"/>
+        <card number="1" name="Mox Opal (SOM) 223"/>
+        <card number="1" name="Ornithopter (ATQ)"/>
+        <card number="1" name="Paradise Mantle (5DN) 211"/>
+        <card number="1" name="Peat Bog (MMQ)"/>
+        <card number="1" name="Phyrexian Marauder (VIS)"/>
+        <card number="1" name="Phyrexian Walker (VIS)"/>
+        <card number="1" name="Rain of Filth (USG)"/>
+        <card number="1" name="Rhystic Tutor (PCY)"/>
+        <card number="1" name="Shield Sphere (ALL)"/>
+        <card number="1" name="Shifting Wall (STH)"/>
+        <card number="1" name="Sickening Dreams (TOR) 18"/>
+        <card number="1" name="Sidisi, Undead Vizier (DTK) 120"/>
+        <card number="1" name="Slaughter Pact (FUT)"/>
+        <card number="24" name="Snow-Covered Swamp (ICE)"/>
+        <card number="1" name="Sol Ring (2ED)"/>
+        <card number="1" name="Songs of the Damned (ICE)"/>
+        <card number="1" name="Tendrils of Agony (SCG)"/>
+        <card number="1" name="Thoughtseize (LRW)"/>
+        <card number="1" name="Thran Foundry (UDS)"/>
+        <card number="1" name="Tormod's Crypt (DRK)"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth (UMA) 148"/>
+        <card number="1" name="Urza's Bauble (ICE)"/>
+        <card number="1" name="Vampiric Tutor (VIS) 112"/>
+        <card number="1" name="Voltaic Key (M11) 219"/>
+        <card number="1" name="Walking Ballista (AER) 181"/>
+        <card number="1" name="Wasteland (TMP) 248"/>
+        <card number="1" name="Wayfarer's Bauble (5DN) 230"/>
+        <card number="1" name="Yawgmoth's Will (USG)"/>
+        <card number="1" name="Zuran Orb (ICE)"/>
+    </zone>
+</cockatrice_deck>

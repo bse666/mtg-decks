@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Isolation Cell"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solarion"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="20" name="Swamp"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Gifted Aetherborn"/>
+        <card number="2" name="Sanguine Praetor"/>
+        <card number="1" name="Soulflayer"/>
+        <card number="1" name="Nectar Faerie"/>
+        <card number="1" name="Flensermite"/>
+        <card number="1" name="Insatiable Harpy"/>
+        <card number="1" name="Scrounger of Souls"/>
+        <card number="1" name="Duskfang Mentor"/>
+        <card number="1" name="Charity Extractor"/>
+        <card number="1" name="Corpse Hauler"/>
+        <card number="1" name="Daggerdrome Imp"/>
+        <card number="1" name="Grimdancer"/>
+        <card number="1" name="Child of Night"/>
+        <card number="1" name="Defiant Bloodlord"/>
+        <card number="1" name="Vampire Outcasts"/>
+        <card number="1" name="Vampire of the Dire Moon"/>
+        <card number="1" name="Vengeant Vampire"/>
+        <card number="1" name="Markov Crusader"/>
+        <card number="1" name="Indulgent Aristocrat"/>
+        <card number="1" name="Vampire Cutthroat"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Eternal Taskmaster"/>
+        <card number="1" name="Sidisi's Pet"/>
+        <card number="1" name="Escaped Null"/>
+        <card number="1" name="Sanguine Guard"/>
+        <card number="1" name="Gravebreaker Lamia"/>
+        <card number="1" name="Drag Down"/>
+        <card number="1" name="Eliminate"/>
+        <card number="1" name="Fated Return"/>
+        <card number="1" name="Imp's Mischief"/>
+        <card number="1" name="Surgical Extraction"/>
+        <card number="1" name="Tomb Hex"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Call for Blood"/>
+        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Cabal Pit"/>
+        <card number="1" name="Cabal Stronghold"/>
+        <card number="1" name="Castle Locthwain"/>
+        <card number="1" name="Howltooth Hollow"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Spawning Pool"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="The Haunt of Hightower"/>
+        <card number="1" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" name="Erebos, God of the Dead"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Shizo, Death's Storehouse"/>
+        <card number="1" name="Abandon Hope"/>
+        <card number="1" name="Absorb Vis"/>
+        <card number="1" name="Aid the Fallen"/>
+        <card number="1" name="Blood Tithe"/>
+        <card number="1" name="Bond of Revival"/>
+        <card number="1" name="Consuming Vapors"/>
+        <card number="1" name="Corrupt"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Drain Life"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Entreat the Dead"/>
+        <card number="1" name="Fearsome Awakening"/>
+        <card number="1" name="Rhystic Tutor"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+        <card number="1" name="Blood Tribute"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Smitten Swordmaster"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Pith Driller"/>
+        <card number="1" name="Ambitious Aetherborn"/>
+        <card number="1" name="Aetherborn Marauder"/>
+        <card number="1" name="Prakhata Club Security"/>
+        <card number="1" name="Fallen Angel"/>
+        <card number="1" name="Soul of Innistrad"/>
+        <card number="1" name="Blaring Captain"/>
+        <card number="1" name="Sengir Bats"/>
+    </zone>
+</cockatrice_deck>

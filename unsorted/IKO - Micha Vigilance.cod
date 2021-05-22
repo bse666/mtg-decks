@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>IKO - Michas Vigilance</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Labyrinth Raptor"/>
+        <card number="4" name="Hunted Nightmare"/>
+        <card number="4" name="Grimdancer"/>
+        <card number="4" name="Sonorous Howlbonder"/>
+        <card number="4" name="Ferocious Tigorilla"/>
+        <card number="4" name="Fire Prophecy"/>
+        <card number="4" name="Flame Spill"/>
+        <card number="4" name="Mythos of Nethroi"/>
+        <card number="4" name="Raking Claws"/>
+        <card number="3" name="Tentative Connection"/>
+        <card number="1" name="Weaponize the Monsters"/>
+        <card number="4" name="Bloodfell Caves"/>
+        <card number="7" name="Mountain"/>
+        <card number="9" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

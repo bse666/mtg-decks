@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Darksteel Lich 5$</deckname>
+    <comments>http://tappedout.net/mtg-decks/5-indestructible-lich/</comments>
+    <zone name="main">
+        <card number="4" name="Barrier of Bones (GRN) 61"/>
+        <card number="4" name="Darksteel Axe (IMA) 214"/>
+        <card number="4" name="Darksteel Myr (SOM)"/>
+        <card number="3" name="Darksteel Pendant (DST)"/>
+        <card number="4" name="Doom Blade (EO2) 18"/>
+        <card number="3" name="Drown in Sorrow (BNG) 65"/>
+        <card number="4" name="Phylactery Lich (M19) 113"/>
+        <card number="4" name="Prowler's Helm (THS) 219"/>
+        <card number="3" name="Read the Bones (MYSTOR)"/>
+        <card number="4" name="Seekers' Squire (XLN) 121"/>
+        <card number="23" name="Swamp (THB) 252"/>
+    </zone>
+</cockatrice_deck>

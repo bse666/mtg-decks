@@ -1,0 +1,88 @@
+1 Alela, Artful Provocateur (ELD) 324
+1 Azorius Guildgate (RNA) 243
+1 Castle Locthwain (ELD) 241
+1 Castle Vantress (ELD) 242
+1 Command Tower (C20) 264
+1 Cryptic Caves (M20) 244
+1 Dismal Backwater (IKO) 246
+1 Evolving Wilds (IKO) 247
+1 Fabled Passage (ELD) 244
+1 Godless Shrine (RNA) 248
+1 Hallowed Fountain (RNA) 251
+3 Island (IKO) 263
+1 Karn's Bastion (WAR) 248
+1 Orzhov Guildgate (WAR) 269
+4 Plains (IKO) 260
+1 Scoured Barrens (IKO) 254
+1 Swamp (IKO) 266
+1 Temple of Silence (M20) 256
+1 Tranquil Cove (IKO) 257
+1 Watery Grave (GRN) 259
+1 Banish into Fable (ELD) 325
+1 Conclave Tribunal (GRN) 6
+1 Despark (C20) 209
+1 Frogify (ELD) 47
+1 Kaya's Wrath (RNA) 187
+1 Lawmage's Binding (RNA) 190
+1 Oath of Kaya (WAR) 209
+1 Prison Realm (WAR) 26
+1 Realm-Cloaked Giant (ELD) 26
+1 Teferi, Time Raveler (WAR) 221
+1 Time Wipe (WAR) 223
+1 Animating Faerie (ELD) 38
+1 Depose /// Deploy (RNA) 225
+1 Divine Visitation (GRN) 10
+1 Dreadhorde Invasion (WAR) 86
+1 Harmonious Archon (ELD) 17
+1 Mirrormade (ELD) 55
+1 Steel Overseer (M20) 239
+1 Stonecoil Serpent (ELD) 235
+1 Tezzeret, Master of the Bridge (WAR) 275
+1 Arcane Signet (C20) 237
+1 Heraldic Banner (ELD) 222
+1 Smothering Tithe (RNA) 22
+1 Spinning Wheel (ELD) 234
+1 Arcanist's Owl (ELD) 206
+1 Bag of Holding (M20) 222
+1 Dovin, Grand Arbiter (RNA) 167
+1 Golden Egg (ELD) 220
+1 Shimmer Dragon (ELD) 317
+1 Witching Well (ELD) 74
+1 All That Glitters (ELD) 2
+1 Mace of the Valiant (ELD) 314
+1 Sephara, Sky's Blade (M20) 36
+1 Dance of the Manse (ELD) 186
+1 Emry, Lurker of the Loch (ELD) 43
+
+1 Angelic Exaltation (RNA) 2
+1 Bolas's Citadel (WAR) 79
+1 Castle Ardenvale (ELD) 238
+1 Corridor Monitor (ELD) 41
+1 Dimir Guildgate (GRN) 245
+1 Doom Foretold (ELD) 187
+1 Drown in the Loch (ELD) 188
+1 Epic Downfall (ELD) 85
+1 Faerie Formation (ELD) 316
+1 Glass Casket (ELD) 15
+1 Hypnotic Sprite (ELD) 49
+1 Kasmina's Transmutation (WAR) 57
+1 Leyline of Anticipation (M20) 64
+1 Liliana, Dreadhorde General (WAR) 97
+1 Manifold Key (M20) 230
+1 Massacre Girl (WAR) 99
+1 Master Splicer (M20) 29
+1 Masterful Replication (M20) 65
+1 Meteor Golem (C19) 218
+1 Mystic Forge (M20) 233
+1 Narset's Reversal (WAR) 62
+1 Portal of Sanctuary (M20) 71
+1 Rankle, Master of Pranks (ELD) 101
+1 Shinechaser (ELD) 201
+1 Starfield Mystic (M20) 39
+1 The Cauldron of Eternity (ELD) 82
+1 Thought Erasure (GRN) 206
+1 Tyrant's Scorn (WAR) 225
+1 Vantress Gargoyle (ELD) 71
+1 Vilis, Broker of Blood (M20) 122
+1 Winged Words (M20) 80
+1 Workshop Elders (ELD) 318

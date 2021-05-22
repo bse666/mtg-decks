@@ -1,0 +1,49 @@
+1 Athreos, God of Passage (JOU) 146
+1 Ayara, First of Locthwain (ELD) 75
+1 Ayli, Eternal Pilgrim (OGW) 151
+1 Blood Artist (C17) 99
+1 Bloodchief Ascension (ZEN) 82
+1 Bojuka Bog (C19) 232
+1 Caves of Koilos (C16) 285
+1 Command Tower (ELD) 333
+1 Cruel Celebrant (WAR) 188
+1 Diabolic Intent (BBD) 141
+1 Elenda, the Dusk Rose (RIX) 157
+1 Endrek Sahr, Master Breeder (MM2) 82
+1 Evolving Wilds (C19) 241
+1 Exsanguinate (SOM) 61
+1 Fabled Passage (ELD) 244
+1 Fetid Heath (A25) 238
+1 Field of Souls (EMA) 11
+1 Field of the Dead (M20) 247
+1 Godless Shrine (RNA) 248
+1 Grave Pact (CM2) 65
+1 Grim Haruspex (C19) 118
+1 Hall of Heliod's Generosity (MH1) 241
+1 Kaya's Wrath (RNA) 187
+1 Kokusho, the Evening Star (IMA) 95
+1 Midnight Reaper (GRN) 77
+1 Miren, the Moaning Well (SOK) 163
+1 Mortify (RNA) 192
+1 Orzhov Enforcer (RNA) 79
+1 Pawn of Ulamog (C17) 120
+1 Piper of the Swarm (ELD) 100
+4 Plains (THB) 278
+1 Priest of Forgotten Gods (RNA) 83
+1 Ravos, Soultender (C16) 39
+1 Revel in Riches (XLN) 117
+1 Scoured Barrens (M20) 251
+1 Silent Clearing (MH1) 246
+1 Smothering Abomination (BFZ) 99
+1 Sorin, Grim Nemesis (SOI) 251
+5 Swamp (THB) 282
+1 Syr Konrad, the Grim (ELD) 107
+1 Tainted Field (E02) 47
+1 Temple of Silence (M20) 256
+1 Teysa Karlov (RNA) 212
+1 Teysa, Orzhov Scion (GK2) 28
+1 Vault of the Archangel (DKA) 158
+1 Vindictive Vampire (RNA) 90
+1 Viscera Seer (C13) 99
+1 Yahenni, Undying Partisan (AER) 74
+1 Zulaport Cutthroat (A25) 117

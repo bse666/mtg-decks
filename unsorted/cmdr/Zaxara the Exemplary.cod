@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zaxara the Exemplary</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zaxara, the Exemplary"/>
+        <card number="1" name="Altered Ego"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Capricopian"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Gargos, Vicious Watcher"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Hooded Hydra"/>
+        <card number="1" name="Hungering Hydra"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Kruphix, God of Horizons"/>
+        <card number="1" name="Lifeblood Hydra"/>
+        <card number="1" name="Mistcutter Hydra"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Primordial Hydra"/>
+        <card number="1" name="Protean Hydra"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Steelbane Hydra"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Vastwood Hydra"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Condescend"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Erebos's Intervention"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Thassa's Intervention"/>
+        <card number="1" name="Animist's Awakening"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Curse of the Swine"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Villainous Wealth"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Astral Cornucopia"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Pemmin's Aura"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Unbound Flourishing"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Nissa, Steward of Elements"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="5" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="8" name="Forest"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,88 @@
+1 Alela, Artful Provocateur
+1 Azorius Guildgate
+1 Castle Locthwain
+1 Castle Vantress
+1 Command Tower
+1 Cryptic Caves
+1 Dismal Backwater
+1 Evolving Wilds
+1 Fabled Passage
+1 Godless Shrine
+1 Hallowed Fountain
+3 Island
+1 Karn's Bastion
+1 Orzhov Guildgate
+4 Plains
+1 Scoured Barrens
+1 Swamp
+1 Temple of Silence
+1 Tranquil Cove
+1 Watery Grave
+1 Banish into Fable
+1 Conclave Tribunal
+1 Despark
+1 Frogify
+1 Kaya's Wrath
+1 Lawmage's Binding
+1 Oath of Kaya
+1 Prison Realm
+1 Realm-Cloaked Giant // Cast Off
+1 Teferi, Time Raveler
+1 Time Wipe
+1 Animating Faerie // Bring to Life
+1 Depose // Deploy
+1 Divine Visitation
+1 Dreadhorde Invasion
+1 Harmonious Archon
+1 Mirrormade
+1 Steel Overseer
+1 Stonecoil Serpent
+1 Tezzeret, Master of the Bridge
+1 Arcane Signet
+1 Heraldic Banner
+1 Smothering Tithe
+1 Spinning Wheel
+1 Arcanist's Owl
+1 Bag of Holding
+1 Dovin, Grand Arbiter
+1 Golden Egg
+1 Shimmer Dragon
+1 Witching Well
+1 All That Glitters
+1 Mace of the Valiant
+1 Sephara, Sky's Blade
+1 Dance of the Manse
+1 Emry, Lurker of the Loch
+
+1 Angelic Exaltation
+1 Bolas's Citadel
+1 Castle Ardenvale
+1 Corridor Monitor
+1 Dimir Guildgate
+1 Doom Foretold
+1 Drown in the Loch
+1 Epic Downfall
+1 Faerie Formation
+1 Glass Casket
+1 Hypnotic Sprite // Mesmeric Glare
+1 Kasmina's Transmutation
+1 Leyline of Anticipation
+1 Liliana, Dreadhorde General
+1 Manifold Key
+1 Massacre Girl
+1 Master Splicer
+1 Masterful Replication
+1 Meteor Golem
+1 Mystic Forge
+1 Narset's Reversal
+1 Portal of Sanctuary
+1 Rankle, Master of Pranks
+1 Shinechaser
+1 Starfield Mystic
+1 The Cauldron of Eternity
+1 Thought Erasure
+1 Tyrant's Scorn
+1 Vantress Gargoyle
+1 Vilis, Broker of Blood
+1 Winged Words
+1 Workshop Elders
