@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kudro Cmdr</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="General Kudro of Drannith"/>
+        <card number="1" name="Alert Heedbonder"/>
+        <card number="1" name="Bushmeat Poacher"/>
+        <card number="1" name="Checkpoint Officer"/>
+        <card number="1" name="Cunning Nightbonder"/>
+        <card number="1" name="Daysquad Marshal"/>
+        <card number="1" name="Drannith Healer"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Duskfang Mentor"/>
+        <card number="1" name="General's Enforcer"/>
+        <card number="1" name="Jubilant Skybonder"/>
+        <card number="1" name="Keensight Mentor"/>
+        <card number="1" name="Lavabrink Venturer"/>
+        <card number="1" name="Lurking Deadeye"/>
+        <card number="1" name="Nightsquad Commando"/>
+        <card number="1" name="Perimeter Sergeant"/>
+        <card number="1" name="Snare Tactician"/>
+        <card number="1" name="Sonorous Howlbonder"/>
+        <card number="1" name="Valiant Rescuer"/>
+        <card number="1" name="Whisper Squad"/>
+        <card number="1" name="Winota, Joiner of Forces"/>
+        <card number="1" name="Void Beckoner"/>
+        <card number="1" name="Suffocating Fumes"/>
+        <card number="1" name="Splendor Mare"/>
+        <card number="1" name="Memory Leak"/>
+        <card number="1" name="Imposing Vantasaur"/>
+        <card number="1" name="Flourishing Fox"/>
+        <card number="1" name="Easy Prey"/>
+        <card number="1" name="Coordinated Charge"/>
+    </zone>
+</cockatrice_deck>
